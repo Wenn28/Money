@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
+.next/
+# data pasar tertunda tidak boleh ikut ke repo atau ke Vercel; hanya lewat Firestore dengan login
+web/data/

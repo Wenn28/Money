@@ -1,0 +1,6610 @@
+[
+ {
+  "kode": "AALI",
+  "nama": "Astra Agro Lestari Tbk.",
+  "tanggal_pencatatan": "1997-12-09",
+  "saham": 1924688333,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ABBA",
+  "nama": "Mahaka Media Tbk.",
+  "tanggal_pencatatan": "2002-04-03",
+  "saham": 3935892857,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "ABDA",
+  "nama": "Asuransi Bina Dana Arta Tbk.",
+  "tanggal_pencatatan": "1989-07-06",
+  "saham": 620806680,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ABMM",
+  "nama": "ABM Investama Tbk.",
+  "tanggal_pencatatan": "2011-12-06",
+  "saham": 2753165000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ACES",
+  "nama": "Aspirasi Hidup Indonesia Tbk.",
+  "tanggal_pencatatan": "2007-11-06",
+  "saham": 17120389700,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ACST",
+  "nama": "Acset Indonusa Tbk.",
+  "tanggal_pencatatan": "2013-06-24",
+  "saham": 17675160000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "ADES",
+  "nama": "Akasha Wira International Tbk.",
+  "tanggal_pencatatan": "1994-06-13",
+  "saham": 589896800,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ADHI",
+  "nama": "Adhi Karya (Persero) Tbk.",
+  "tanggal_pencatatan": "2004-03-18",
+  "saham": 8407608979,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ADMF",
+  "nama": "Adira Dinamika Multi Finance T",
+  "tanggal_pencatatan": "2004-03-31",
+  "saham": 1235803109,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ADMG",
+  "nama": "Polychem Indonesia Tbk",
+  "tanggal_pencatatan": "1993-10-20",
+  "saham": 3889179559,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ADRO",
+  "nama": "Alamtri Resources Indonesia Tb",
+  "tanggal_pencatatan": "2008-07-16",
+  "saham": 28800494200,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AGII",
+  "nama": "Samator Indo Gas Tbk.",
+  "tanggal_pencatatan": "2016-09-28",
+  "saham": 3066660000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AGRO",
+  "nama": "Bank Raya Indonesia Tbk.",
+  "tanggal_pencatatan": "2003-08-08",
+  "saham": 24493093216,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AGRS",
+  "nama": "Bank IBK Indonesia Tbk.",
+  "tanggal_pencatatan": "2014-12-22",
+  "saham": 47367057874,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AHAP",
+  "nama": "Asuransi Harta Aman Pratama Tb",
+  "tanggal_pencatatan": "1990-09-14",
+  "saham": 7730150865,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AIMS",
+  "nama": "Artha Mahiya Investama Tbk.",
+  "tanggal_pencatatan": "2001-07-20",
+  "saham": 220000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AISA",
+  "nama": "FKS Food Sejahtera Tbk.",
+  "tanggal_pencatatan": "1997-06-11",
+  "saham": 9311800000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AKKU",
+  "nama": "Anugerah Kagum Karya Utama Tbk",
+  "tanggal_pencatatan": "2004-11-01",
+  "saham": 6449463636,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AKPI",
+  "nama": "Argha Karya Prima Industry Tbk",
+  "tanggal_pencatatan": "1992-12-18",
+  "saham": 612248000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AKRA",
+  "nama": "AKR Corporindo Tbk.",
+  "tanggal_pencatatan": "1994-10-03",
+  "saham": 20073474600,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AKSI",
+  "nama": "Mineral Sumberdaya Mandiri Tbk",
+  "tanggal_pencatatan": "2001-07-13",
+  "saham": 720000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ALDO",
+  "nama": "Alkindo Naratama Tbk.",
+  "tanggal_pencatatan": "2011-07-12",
+  "saham": 2700713744,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ALKA",
+  "nama": "Alakasa Industrindo Tbk",
+  "tanggal_pencatatan": "1990-07-12",
+  "saham": 507665055,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ALMI",
+  "nama": "Alumindo Light Metal Industry",
+  "tanggal_pencatatan": "1997-01-02",
+  "saham": 3816000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ALTO",
+  "nama": "Tri Banyan Tirta Tbk.",
+  "tanggal_pencatatan": "2012-07-10",
+  "saham": 2191870558,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AMAG",
+  "nama": "Asuransi Multi Artha Guna Tbk.",
+  "tanggal_pencatatan": "2005-12-23",
+  "saham": 5001552516,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AMFG",
+  "nama": "Asahimas Flat Glass Tbk.",
+  "tanggal_pencatatan": "1995-11-08",
+  "saham": 434000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AMIN",
+  "nama": "Ateliers Mecaniques D Indonesi",
+  "tanggal_pencatatan": "2015-12-10",
+  "saham": 1080000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AMRT",
+  "nama": "Sumber Alfaria Trijaya Tbk.",
+  "tanggal_pencatatan": "2009-01-15",
+  "saham": 41524501700,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ANJT",
+  "nama": "Austindo Nusantara Jaya Tbk.",
+  "tanggal_pencatatan": "2013-05-08",
+  "saham": 3354175000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ANTM",
+  "nama": "ANTAM (Persero) Tbk.",
+  "tanggal_pencatatan": "1997-11-27",
+  "saham": 24030764725,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "APEX",
+  "nama": "Apexindo Pratama Duta Tbk.",
+  "tanggal_pencatatan": "2013-06-05",
+  "saham": 3764556978,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "APIC",
+  "nama": "Pacific Strategic Financial Tb",
+  "tanggal_pencatatan": "2002-12-18",
+  "saham": 11766313488,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "APII",
+  "nama": "Arita Prima Indonesia Tbk.",
+  "tanggal_pencatatan": "2013-10-29",
+  "saham": 1075760000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "APLI",
+  "nama": "Asiaplast Industries Tbk.",
+  "tanggal_pencatatan": "2000-05-01",
+  "saham": 1362671400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "APLN",
+  "nama": "Agung Podomoro Land Tbk.",
+  "tanggal_pencatatan": "2010-11-11",
+  "saham": 22699326779,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ARGO",
+  "nama": "Argo Pantes Tbk",
+  "tanggal_pencatatan": "1991-01-07",
+  "saham": 3174339029,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ARII",
+  "nama": "Atlas Resources Tbk.",
+  "tanggal_pencatatan": "2011-11-08",
+  "saham": 3750000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ARNA",
+  "nama": "Arwana Citramulia Tbk.",
+  "tanggal_pencatatan": "2001-07-17",
+  "saham": 7341430976,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ARTA",
+  "nama": "Arthavest Tbk",
+  "tanggal_pencatatan": "2002-11-05",
+  "saham": 446674175,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ARTI",
+  "nama": "Ratu Prabu Energi Tbk",
+  "tanggal_pencatatan": "2003-04-30",
+  "saham": 7840000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "ARTO",
+  "nama": "Bank Jago Tbk.",
+  "tanggal_pencatatan": "2016-01-12",
+  "saham": 13722768400,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ASBI",
+  "nama": "Asuransi Bintang Tbk.",
+  "tanggal_pencatatan": "1989-11-29",
+  "saham": 348386472,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ASDM",
+  "nama": "Asuransi Dayin Mitra Tbk.",
+  "tanggal_pencatatan": "1989-12-15",
+  "saham": 384000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ASGR",
+  "nama": "Astra Graphia Tbk.",
+  "tanggal_pencatatan": "1989-11-15",
+  "saham": 1348780500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ASII",
+  "nama": "Astra International Tbk.",
+  "tanggal_pencatatan": "1990-04-04",
+  "saham": 40483553140,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ASJT",
+  "nama": "Asuransi Jasa Tania Tbk.",
+  "tanggal_pencatatan": "2003-12-23",
+  "saham": 1400000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ASMI",
+  "nama": "Asuransi Maximus Graha Persada",
+  "tanggal_pencatatan": "2014-01-16",
+  "saham": 8958380460,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ASRI",
+  "nama": "Alam Sutera Realty Tbk.",
+  "tanggal_pencatatan": "2007-12-18",
+  "saham": 19649411888,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ASRM",
+  "nama": "Asuransi Ramayana Tbk.",
+  "tanggal_pencatatan": "1990-03-19",
+  "saham": 1277992036,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ASSA",
+  "nama": "Adi Sarana Armada Tbk.",
+  "tanggal_pencatatan": "2012-11-12",
+  "saham": 3691137517,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ATIC",
+  "nama": "Anabatic Technologies Tbk.",
+  "tanggal_pencatatan": "2015-07-08",
+  "saham": 2894201693,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AUTO",
+  "nama": "Astra Otoparts Tbk.",
+  "tanggal_pencatatan": "1998-06-15",
+  "saham": 4819733000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BABP",
+  "nama": "Bank MNC Internasional Tbk.",
+  "tanggal_pencatatan": "2002-07-15",
+  "saham": 44014333126,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BACA",
+  "nama": "Bank Capital Indonesia Tbk.",
+  "tanggal_pencatatan": "2007-10-04",
+  "saham": 19753494636,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BAJA",
+  "nama": "Saranacentral Bajatama Tbk.",
+  "tanggal_pencatatan": "2011-12-21",
+  "saham": 2700000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BALI",
+  "nama": "Bali Towerindo Sentra Tbk.",
+  "tanggal_pencatatan": "2014-03-13",
+  "saham": 3934592500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BAPA",
+  "nama": "Bekasi Asri Pemula Tbk.",
+  "tanggal_pencatatan": "2008-01-14",
+  "saham": 661784520,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BATA",
+  "nama": "Sepatu Bata Tbk.",
+  "tanggal_pencatatan": "1982-03-24",
+  "saham": 1300000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "BAYU",
+  "nama": "Bayu Buana Tbk",
+  "tanggal_pencatatan": "1989-10-30",
+  "saham": 353220780,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BBCA",
+  "nama": "Bank Central Asia Tbk.",
+  "tanggal_pencatatan": "2000-05-31",
+  "saham": 122042299500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BBHI",
+  "nama": "Allo Bank Indonesia Tbk.",
+  "tanggal_pencatatan": "2015-08-12",
+  "saham": 21512953877,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BBKP",
+  "nama": "Bank KB Indonesia Tbk.",
+  "tanggal_pencatatan": "2006-07-10",
+  "saham": 185819884852,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BBLD",
+  "nama": "Buana Finance Tbk.",
+  "tanggal_pencatatan": "1990-05-07",
+  "saham": 1645796054,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BBMD",
+  "nama": "Bank Mestika Dharma Tbk.",
+  "tanggal_pencatatan": "2013-07-08",
+  "saham": 4049189100,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BBNI",
+  "nama": "Bank Negara Indonesia (Persero",
+  "tanggal_pencatatan": "1996-11-25",
+  "saham": 36924339786,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BBRI",
+  "nama": "Bank Rakyat Indonesia (Persero",
+  "tanggal_pencatatan": "2003-11-10",
+  "saham": 150043411587,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BBRM",
+  "nama": "Pelayaran Nasional Bina Buana",
+  "tanggal_pencatatan": "2013-01-09",
+  "saham": 8479490328,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BBTN",
+  "nama": "Bank Tabungan Negara (Persero)",
+  "tanggal_pencatatan": "2009-12-17",
+  "saham": 13894099969,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BBYB",
+  "nama": "Bank Neo Commerce Tbk.",
+  "tanggal_pencatatan": "2015-01-13",
+  "saham": 13216977523,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BCAP",
+  "nama": "MNC Kapital Indonesia Tbk.",
+  "tanggal_pencatatan": "2001-06-08",
+  "saham": 42618850927,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BCIC",
+  "nama": "Bank JTrust Indonesia Tbk.",
+  "tanggal_pencatatan": "1997-06-25",
+  "saham": 17926071041,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BCIP",
+  "nama": "Bumi Citra Permai Tbk.",
+  "tanggal_pencatatan": "2009-12-11",
+  "saham": 1429915525,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BDMN",
+  "nama": "Bank Danamon Indonesia Tbk.",
+  "tanggal_pencatatan": "1989-12-06",
+  "saham": 9675817341,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BEKS",
+  "nama": "Bank Pembangunan Daerah Banten",
+  "tanggal_pencatatan": "2001-07-13",
+  "saham": 51351733883,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BEST",
+  "nama": "Bekasi Fajar Industrial Estate",
+  "tanggal_pencatatan": "2012-04-10",
+  "saham": 9647311150,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BFIN",
+  "nama": "BFI Finance  Indonesia Tbk.",
+  "tanggal_pencatatan": "1990-05-16",
+  "saham": 15039383620,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BGTG",
+  "nama": "Bank Ganesha Tbk.",
+  "tanggal_pencatatan": "2016-05-12",
+  "saham": 23731287132,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BHIT",
+  "nama": "MNC Asia Holding Tbk.",
+  "tanggal_pencatatan": "1997-11-24",
+  "saham": 86068156705,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BIKA",
+  "nama": "Binakarya Jaya Abadi Tbk.",
+  "tanggal_pencatatan": "2015-07-14",
+  "saham": 592280000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "BIMA",
+  "nama": "Primarindo Asia Infrastructure",
+  "tanggal_pencatatan": "1994-08-30",
+  "saham": 608175716,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "BINA",
+  "nama": "Bank Ina Perdana Tbk.",
+  "tanggal_pencatatan": "2014-01-16",
+  "saham": 6087043531,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BIPI",
+  "nama": "Astrindo Nusantara Infrastrukt",
+  "tanggal_pencatatan": "2010-02-11",
+  "saham": 63710196917,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BIPP",
+  "nama": "Bhuwanatala Indah Permai Tbk.",
+  "tanggal_pencatatan": "1995-10-23",
+  "saham": 5531536313,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BIRD",
+  "nama": "Blue Bird Tbk.",
+  "tanggal_pencatatan": "2014-11-05",
+  "saham": 2502100000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BISI",
+  "nama": "BISI International Tbk.",
+  "tanggal_pencatatan": "2007-05-28",
+  "saham": 3000000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BJBR",
+  "nama": "Bank Pembangunan Daerah Jawa B",
+  "tanggal_pencatatan": "2010-07-08",
+  "saham": 10416229249,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BJTM",
+  "nama": "Bank Pembangunan Daerah Jawa T",
+  "tanggal_pencatatan": "2012-07-12",
+  "saham": 14865343101,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BKDP",
+  "nama": "Bukit Darmo Property Tbk",
+  "tanggal_pencatatan": "2007-06-15",
+  "saham": 7513992252,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BKSL",
+  "nama": "Sentul City Tbk.",
+  "tanggal_pencatatan": "1997-07-28",
+  "saham": 167708902705,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BKSW",
+  "nama": "Bank QNB Indonesia Tbk.",
+  "tanggal_pencatatan": "2002-11-21",
+  "saham": 34806467881,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BLTA",
+  "nama": "Berlian Laju Tanker Tbk",
+  "tanggal_pencatatan": "1990-03-26",
+  "saham": 25940187103,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BLTZ",
+  "nama": "Graha Layar Prima Tbk.",
+  "tanggal_pencatatan": "2014-04-10",
+  "saham": 873937142,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BMAS",
+  "nama": "Bank Kasikorn Indonesia Tbk.",
+  "tanggal_pencatatan": "2013-07-11",
+  "saham": 17921635680,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BMRI",
+  "nama": "Bank Mandiri (Persero) Tbk.",
+  "tanggal_pencatatan": "2003-07-14",
+  "saham": 92399999996,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BMSR",
+  "nama": "Bintang Mitra Semestaraya Tbk",
+  "tanggal_pencatatan": "1999-12-29",
+  "saham": 1159200024,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BMTR",
+  "nama": "Global Mediacom Tbk.",
+  "tanggal_pencatatan": "1995-07-17",
+  "saham": 16583997586,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BNBA",
+  "nama": "Bank Bumi Arta Tbk.",
+  "tanggal_pencatatan": "2006-06-01",
+  "saham": 3354120000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BNBR",
+  "nama": "Bakrie & Brothers Tbk",
+  "tanggal_pencatatan": "1989-08-28",
+  "saham": 263336671587,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BNGA",
+  "nama": "Bank CIMB Niaga Tbk.",
+  "tanggal_pencatatan": "1989-11-29",
+  "saham": 24890783784,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BNII",
+  "nama": "Bank Maybank Indonesia Tbk.",
+  "tanggal_pencatatan": "1989-11-21",
+  "saham": 75357433911,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BNLI",
+  "nama": "Bank Permata Tbk.",
+  "tanggal_pencatatan": "1990-01-15",
+  "saham": 35819545925,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BOLT",
+  "nama": "Garuda Metalindo Tbk.",
+  "tanggal_pencatatan": "2015-07-07",
+  "saham": 2343750000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BPFI",
+  "nama": "Woori Finance Indonesia Tbk.",
+  "tanggal_pencatatan": "2009-06-01",
+  "saham": 2673995362,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BPII",
+  "nama": "Batavia Prosperindo Internasio",
+  "tanggal_pencatatan": "2014-07-08",
+  "saham": 9884153240,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BRAM",
+  "nama": "Indo Kordsa Tbk.",
+  "tanggal_pencatatan": "1990-09-05",
+  "saham": 450056980,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BRMS",
+  "nama": "Bumi Resources Minerals Tbk.",
+  "tanggal_pencatatan": "2010-12-09",
+  "saham": 141784040338,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BRNA",
+  "nama": "Berlina Tbk.",
+  "tanggal_pencatatan": "1989-11-06",
+  "saham": 1365340107,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BRPT",
+  "nama": "Barito Pacific Tbk.",
+  "tanggal_pencatatan": "1993-10-01",
+  "saham": 93747218044,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BSDE",
+  "nama": "Bumi Serpong Damai Tbk.",
+  "tanggal_pencatatan": "2008-06-06",
+  "saham": 21171365812,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BSIM",
+  "nama": "Bank Sinarmas Tbk.",
+  "tanggal_pencatatan": "2010-12-13",
+  "saham": 19517921842,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BSSR",
+  "nama": "Baramulti Suksessarana Tbk.",
+  "tanggal_pencatatan": "2012-11-08",
+  "saham": 2616500000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BSWD",
+  "nama": "Bank Of India Indonesia Tbk.",
+  "tanggal_pencatatan": "2002-05-01",
+  "saham": 3651978177,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BTEK",
+  "nama": "Bumi Teknokultura Unggul Tbk",
+  "tanggal_pencatatan": "2004-05-14",
+  "saham": 46277496376,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BTEL",
+  "nama": "Bakrie Telecom Tbk.",
+  "tanggal_pencatatan": "2006-02-03",
+  "saham": 61847903535,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "BTON",
+  "nama": "Betonjaya Manunggal Tbk.",
+  "tanggal_pencatatan": "2001-07-18",
+  "saham": 720000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BTPN",
+  "nama": "Bank SMBC Indonesia Tbk.",
+  "tanggal_pencatatan": "2008-03-12",
+  "saham": 10536203690,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BUDI",
+  "nama": "Budi Starch & Sweetener Tbk.",
+  "tanggal_pencatatan": "1995-05-08",
+  "saham": 4498997362,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BUKK",
+  "nama": "Bukaka Teknik Utama Tbk.",
+  "tanggal_pencatatan": "2015-06-29",
+  "saham": 2640452000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BULL",
+  "nama": "Buana Lintas Lautan Tbk.",
+  "tanggal_pencatatan": "2011-05-23",
+  "saham": 15494436593,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BUMI",
+  "nama": "Bumi Resources Tbk.",
+  "tanggal_pencatatan": "1990-07-30",
+  "saham": 371335392068,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BUVA",
+  "nama": "Bukit Uluwatu Villa Tbk.",
+  "tanggal_pencatatan": "2010-07-12",
+  "saham": 30771318302,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BVIC",
+  "nama": "Bank Victoria International Tb",
+  "tanggal_pencatatan": "1999-06-30",
+  "saham": 18235266754,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BWPT",
+  "nama": "Eagle High Plantations Tbk.",
+  "tanggal_pencatatan": "2009-10-27",
+  "saham": 31525291000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BYAN",
+  "nama": "Bayan Resources Tbk.",
+  "tanggal_pencatatan": "2008-08-12",
+  "saham": 33333335000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CANI",
+  "nama": "Capitol Nusantara Indonesia Tb",
+  "tanggal_pencatatan": "2014-01-16",
+  "saham": 833440000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "CASS",
+  "nama": "Cahaya Aero Services Tbk.",
+  "tanggal_pencatatan": "2011-12-05",
+  "saham": 2086950000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CEKA",
+  "nama": "Wilmar Cahaya Indonesia Tbk.",
+  "tanggal_pencatatan": "1996-07-09",
+  "saham": 595000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CENT",
+  "nama": "Centratama Telekomunikasi Indo",
+  "tanggal_pencatatan": "2001-11-01",
+  "saham": 31183464900,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CFIN",
+  "nama": "Clipan Finance Indonesia Tbk.",
+  "tanggal_pencatatan": "1990-08-27",
+  "saham": 3984520457,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CINT",
+  "nama": "Chitose Internasional Tbk.",
+  "tanggal_pencatatan": "2014-06-27",
+  "saham": 1000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CITA",
+  "nama": "Cita Mineral Investindo Tbk.",
+  "tanggal_pencatatan": "2002-03-20",
+  "saham": 3960361250,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CLPI",
+  "nama": "Colorpak Indonesia Tbk.",
+  "tanggal_pencatatan": "2001-11-30",
+  "saham": 306338500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CMNP",
+  "nama": "Citra Marga Nusaphala Persada",
+  "tanggal_pencatatan": "1995-01-10",
+  "saham": 6696354391,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CMPP",
+  "nama": "AirAsia Indonesia Tbk.",
+  "tanggal_pencatatan": "1994-12-08",
+  "saham": 10685124441,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "CNKO",
+  "nama": "Exploitasi Energi Indonesia Tb",
+  "tanggal_pencatatan": "2001-11-20",
+  "saham": 8956361206,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "CPIN",
+  "nama": "Charoen Pokphand Indonesia Tbk",
+  "tanggal_pencatatan": "1991-03-18",
+  "saham": 16398000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CPRO",
+  "nama": "Central Proteina Prima Tbk.",
+  "tanggal_pencatatan": "2006-11-28",
+  "saham": 59572382787,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CSAP",
+  "nama": "Catur Sentosa Adiprana Tbk.",
+  "tanggal_pencatatan": "2007-12-12",
+  "saham": 5683175151,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CTBN",
+  "nama": "Citra Tubindo Tbk.",
+  "tanggal_pencatatan": "1989-11-28",
+  "saham": 800371500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CTRA",
+  "nama": "Ciputra Development Tbk.",
+  "tanggal_pencatatan": "1994-03-28",
+  "saham": 18535695255,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CTTH",
+  "nama": "Citatah Tbk.",
+  "tanggal_pencatatan": "1996-07-03",
+  "saham": 1230839821,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DART",
+  "nama": "Duta Anggada Realty Tbk.",
+  "tanggal_pencatatan": "1990-05-08",
+  "saham": 3141390962,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DEFI",
+  "nama": "Danasupra Erapacific Tbk.",
+  "tanggal_pencatatan": "2001-07-06",
+  "saham": 687266666,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DEWA",
+  "nama": "Darma Henwa Tbk",
+  "tanggal_pencatatan": "2007-09-26",
+  "saham": 40687434244,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DGIK",
+  "nama": "Nusa Konstruksi Enjiniring Tbk",
+  "tanggal_pencatatan": "2007-12-19",
+  "saham": 5541165000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DILD",
+  "nama": "Intiland Development Tbk.",
+  "tanggal_pencatatan": "1991-09-04",
+  "saham": 10365854185,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DKFT",
+  "nama": "Central Omega Resources Tbk.",
+  "tanggal_pencatatan": "1997-11-21",
+  "saham": 5638246600,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DLTA",
+  "nama": "Delta Djakarta Tbk.",
+  "tanggal_pencatatan": "1984-02-27",
+  "saham": 800659050,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DMAS",
+  "nama": "Puradelta Lestari Tbk.",
+  "tanggal_pencatatan": "2015-05-29",
+  "saham": 48198111100,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DNAR",
+  "nama": "Bank Oke Indonesia Tbk.",
+  "tanggal_pencatatan": "2014-07-11",
+  "saham": 16721891185,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DNET",
+  "nama": "Indoritel Makmur Internasional",
+  "tanggal_pencatatan": "2000-12-11",
+  "saham": 14184000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DOID",
+  "nama": "BUMA Internasional Grup Tbk.",
+  "tanggal_pencatatan": "2001-06-15",
+  "saham": 7651007132,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DPNS",
+  "nama": "Duta Pertiwi Nusantara Tbk.",
+  "tanggal_pencatatan": "1990-08-08",
+  "saham": 331129952,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DSFI",
+  "nama": "Dharma Samudera Fishing Indust",
+  "tanggal_pencatatan": "2000-03-24",
+  "saham": 1857135500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DSNG",
+  "nama": "Dharma Satya Nusantara Tbk.",
+  "tanggal_pencatatan": "2013-06-14",
+  "saham": 10599842400,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DSSA",
+  "nama": "Dian Swastatika Sentosa Tbk",
+  "tanggal_pencatatan": "2009-12-10",
+  "saham": 192638080000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DUTI",
+  "nama": "Duta Pertiwi Tbk",
+  "tanggal_pencatatan": "1994-11-02",
+  "saham": 1850000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DVLA",
+  "nama": "Darya-Varia Laboratoria Tbk.",
+  "tanggal_pencatatan": "1994-11-11",
+  "saham": 1120000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DYAN",
+  "nama": "Dyandra Media International Tb",
+  "tanggal_pencatatan": "2013-03-25",
+  "saham": 4272964279,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ECII",
+  "nama": "Electronic City Indonesia Tbk.",
+  "tanggal_pencatatan": "2013-07-03",
+  "saham": 1334333000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "EKAD",
+  "nama": "Ekadharma International Tbk.",
+  "tanggal_pencatatan": "1990-08-14",
+  "saham": 3493875000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ELSA",
+  "nama": "Elnusa Tbk.",
+  "tanggal_pencatatan": "2008-02-06",
+  "saham": 7298500000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ELTY",
+  "nama": "Bakrieland Development Tbk.",
+  "tanggal_pencatatan": "1995-10-30",
+  "saham": 43521913019,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "EMDE",
+  "nama": "Megapolitan Developments Tbk.",
+  "tanggal_pencatatan": "2011-01-12",
+  "saham": 3350000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "EMTK",
+  "nama": "Elang Mahkota Teknologi Tbk.",
+  "tanggal_pencatatan": "2010-01-12",
+  "saham": 61426451483,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ENRG",
+  "nama": "Energi Mega Persada Tbk.",
+  "tanggal_pencatatan": "2004-06-07",
+  "saham": 39846815625,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "EPMT",
+  "nama": "Enseval Putera Megatrading Tbk",
+  "tanggal_pencatatan": "1994-08-01",
+  "saham": 2708640000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ERAA",
+  "nama": "Erajaya Swasembada Tbk.",
+  "tanggal_pencatatan": "2011-12-14",
+  "saham": 15950000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ERTX",
+  "nama": "Eratex Djaja Tbk.",
+  "tanggal_pencatatan": "1990-08-21",
+  "saham": 1286539792,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ESSA",
+  "nama": "ESSA Industries Indonesia Tbk.",
+  "tanggal_pencatatan": "2012-02-01",
+  "saham": 17226975700,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ESTI",
+  "nama": "Ever Shine Tex Tbk.",
+  "tanggal_pencatatan": "1992-10-13",
+  "saham": 2015208720,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ETWA",
+  "nama": "Eterindo Wahanatama Tbk",
+  "tanggal_pencatatan": "1997-05-16",
+  "saham": 4668671400,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "EXCL",
+  "nama": "XLSMART Telecom Sejahtera Tbk.",
+  "tanggal_pencatatan": "2005-09-29",
+  "saham": 18199862451,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "FAST",
+  "nama": "Fast Food Indonesia Tbk.",
+  "tanggal_pencatatan": "1993-05-11",
+  "saham": 4523610492,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FASW",
+  "nama": "Fajar Surya Wisesa Tbk.",
+  "tanggal_pencatatan": "1994-12-19",
+  "saham": 3221255423,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "FISH",
+  "nama": "FKS Multi Agro Tbk.",
+  "tanggal_pencatatan": "2002-01-18",
+  "saham": 4800000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "FMII",
+  "nama": "Fortune Mate Indonesia Tbk",
+  "tanggal_pencatatan": "2000-06-30",
+  "saham": 6400000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FORU",
+  "nama": "Fortune Indonesia Tbk",
+  "tanggal_pencatatan": "2002-01-17",
+  "saham": 170075257380,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FPNI",
+  "nama": "Lotte Chemical Titan Tbk.",
+  "tanggal_pencatatan": "2002-03-21",
+  "saham": 5566414000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GAMA",
+  "nama": "Aksara Global Development Tbk.",
+  "tanggal_pencatatan": "2012-07-11",
+  "saham": 10011027656,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "GDST",
+  "nama": "Gunawan Dianjaya Steel Tbk.",
+  "tanggal_pencatatan": "2009-12-23",
+  "saham": 9242500000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GDYR",
+  "nama": "Goodyear Indonesia Tbk.",
+  "tanggal_pencatatan": "1980-12-22",
+  "saham": 410000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GEMA",
+  "nama": "Gema Grahasarana Tbk.",
+  "tanggal_pencatatan": "2002-08-12",
+  "saham": 1600000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GEMS",
+  "nama": "Golden Energy Mines Tbk.",
+  "tanggal_pencatatan": "2011-11-17",
+  "saham": 5882353000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "GGRM",
+  "nama": "Gudang Garam Tbk.",
+  "tanggal_pencatatan": "1990-08-27",
+  "saham": 1924088000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "GIAA",
+  "nama": "Garuda Indonesia (Persero) Tbk",
+  "tanggal_pencatatan": "2011-02-11",
+  "saham": 407091703837,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "GJTL",
+  "nama": "Gajah Tunggal Tbk.",
+  "tanggal_pencatatan": "1990-05-08",
+  "saham": 3484800000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "GLOB",
+  "nama": "Globe Kita Terang Tbk.",
+  "tanggal_pencatatan": "2012-07-10",
+  "saham": 1111112000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "GMTD",
+  "nama": "Gowa Makassar Tourism Developm",
+  "tanggal_pencatatan": "2000-12-11",
+  "saham": 1015380000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GOLD",
+  "nama": "Visi Telekomunikasi Infrastruk",
+  "tanggal_pencatatan": "2010-07-07",
+  "saham": 1277276000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GPRA",
+  "nama": "Perdana Gapuraprima Tbk.",
+  "tanggal_pencatatan": "2007-10-10",
+  "saham": 4276655336,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GSMF",
+  "nama": "Equity Development Investment",
+  "tanggal_pencatatan": "1989-10-23",
+  "saham": 15456814805,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GTBO",
+  "nama": "Garda Tujuh Buana Tbk",
+  "tanggal_pencatatan": "2009-07-09",
+  "saham": 2500000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "GWSA",
+  "nama": "Greenwood Sejahtera Tbk.",
+  "tanggal_pencatatan": "2011-12-23",
+  "saham": 7800760000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GZCO",
+  "nama": "Gozco Plantations Tbk.",
+  "tanggal_pencatatan": "2008-05-15",
+  "saham": 6000000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "HADE",
+  "nama": "Himalaya Energi Perkasa Tbk.",
+  "tanggal_pencatatan": "2004-04-12",
+  "saham": 2120000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HDFA",
+  "nama": "Radana Bhaskara Finance Tbk.",
+  "tanggal_pencatatan": "2011-05-10",
+  "saham": 6542445783,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HERO",
+  "nama": "DFI Retail Nusantara Tbk.",
+  "tanggal_pencatatan": "1989-08-21",
+  "saham": 4183634000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "HEXA",
+  "nama": "Hexindo Adiperkasa Tbk.",
+  "tanggal_pencatatan": "1995-02-13",
+  "saham": 840000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "HITS",
+  "nama": "Humpuss Intermoda Transportasi",
+  "tanggal_pencatatan": "1997-12-15",
+  "saham": 7101084801,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HMSP",
+  "nama": "H.M. Sampoerna Tbk.",
+  "tanggal_pencatatan": "1990-08-15",
+  "saham": 116318076900,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "HOME",
+  "nama": "Hotel Mandarine Regency Tbk.",
+  "tanggal_pencatatan": "2008-07-17",
+  "saham": 22212194782,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HOTL",
+  "nama": "Saraswati Griya Lestari Tbk.",
+  "tanggal_pencatatan": "2013-01-10",
+  "saham": 3550001452,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "HRUM",
+  "nama": "Harum Energy Tbk.",
+  "tanggal_pencatatan": "2010-10-06",
+  "saham": 13518100000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "IATA",
+  "nama": "Karya Pacific Energy Tbk.",
+  "tanggal_pencatatan": "2006-09-13",
+  "saham": 31275829981,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IBFN",
+  "nama": "Intan Baru Prana Tbk.",
+  "tanggal_pencatatan": "2014-12-22",
+  "saham": 1517332349,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "IBST",
+  "nama": "Inti Bangun Sejahtera Tbk.",
+  "tanggal_pencatatan": "2012-08-31",
+  "saham": 1350904927,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ICBP",
+  "nama": "Indofood CBP Sukses Makmur Tbk",
+  "tanggal_pencatatan": "2010-10-07",
+  "saham": 11661908000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ICON",
+  "nama": "Island Concepts Indonesia Tbk.",
+  "tanggal_pencatatan": "2005-07-08",
+  "saham": 1089750000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IGAR",
+  "nama": "Champion Pacific Indonesia Tbk",
+  "tanggal_pencatatan": "1990-11-05",
+  "saham": 927780600,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IIKP",
+  "nama": "Inti Agri Resources Tbk",
+  "tanggal_pencatatan": "2002-10-14",
+  "saham": 33600000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IKAI",
+  "nama": "Intikeramik Alamasri Industri",
+  "tanggal_pencatatan": "1997-06-04",
+  "saham": 13305799387,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "IKBI",
+  "nama": "Sumi Indo Kabel Tbk.",
+  "tanggal_pencatatan": "1991-01-21",
+  "saham": 1224000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IMAS",
+  "nama": "Indomobil Sukses Internasional",
+  "tanggal_pencatatan": "1993-11-15",
+  "saham": 3994291039,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "IMJS",
+  "nama": "Indomobil Multi Jasa Tbk.",
+  "tanggal_pencatatan": "2013-12-10",
+  "saham": 10849262500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IMPC",
+  "nama": "Impack Pratama Industri Tbk.",
+  "tanggal_pencatatan": "2014-12-17",
+  "saham": 54907000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "INAF",
+  "nama": "Indofarma Tbk.",
+  "tanggal_pencatatan": "2001-04-17",
+  "saham": 3099267500,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "INAI",
+  "nama": "Indal Aluminium Industry Tbk.",
+  "tanggal_pencatatan": "1994-12-05",
+  "saham": 633600000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INCI",
+  "nama": "Intanwijaya Internasional Tbk",
+  "tanggal_pencatatan": "1990-07-24",
+  "saham": 207656617,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INCO",
+  "nama": "Vale Indonesia Tbk.",
+  "tanggal_pencatatan": "1990-05-16",
+  "saham": 10539784534,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "INDF",
+  "nama": "Indofood Sukses Makmur Tbk.",
+  "tanggal_pencatatan": "1994-07-14",
+  "saham": 8780426500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "INDR",
+  "nama": "Indo-Rama Synthetics Tbk.",
+  "tanggal_pencatatan": "1990-08-03",
+  "saham": 654351707,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INDS",
+  "nama": "Indospring Tbk.",
+  "tanggal_pencatatan": "1990-08-10",
+  "saham": 6562497100,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INDX",
+  "nama": "Tanah Laut Tbk",
+  "tanggal_pencatatan": "2001-05-17",
+  "saham": 437913588,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INDY",
+  "nama": "Indika Energy Tbk.",
+  "tanggal_pencatatan": "2008-06-11",
+  "saham": 5210192000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "INKP",
+  "nama": "Indah Kiat Pulp & Paper Tbk.",
+  "tanggal_pencatatan": "1990-07-16",
+  "saham": 5470982941,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "INPC",
+  "nama": "Bank Artha Graha Internasional",
+  "tanggal_pencatatan": "1990-08-23",
+  "saham": 20021178779,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "INPP",
+  "nama": "Indonesian Paradise Property T",
+  "tanggal_pencatatan": "2004-01-12",
+  "saham": 11181971732,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INRU",
+  "nama": "Toba Pulp Lestari Tbk.",
+  "tanggal_pencatatan": "1990-06-18",
+  "saham": 1388883283,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INTA",
+  "nama": "Intraco Penta Tbk.",
+  "tanggal_pencatatan": "1993-08-23",
+  "saham": 3343935022,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "INTD",
+  "nama": "Inter Delta Tbk",
+  "tanggal_pencatatan": "1989-12-18",
+  "saham": 591828000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INTP",
+  "nama": "Indocement Tunggal Prakarsa Tb",
+  "tanggal_pencatatan": "1989-12-05",
+  "saham": 3431073399,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "IPOL",
+  "nama": "Indopoly Swakarsa Industry Tbk",
+  "tanggal_pencatatan": "2010-07-09",
+  "saham": 6443379509,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ISAT",
+  "nama": "Indosat Tbk.",
+  "tanggal_pencatatan": "1994-10-19",
+  "saham": 32250810957,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ISSP",
+  "nama": "Steel Pipe Industry of Indones",
+  "tanggal_pencatatan": "2013-02-22",
+  "saham": 7185992035,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ITMA",
+  "nama": "Sumber Energi Andalan Tbk.",
+  "tanggal_pencatatan": "1990-12-10",
+  "saham": 999053167,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ITMG",
+  "nama": "Indo Tambangraya Megah Tbk.",
+  "tanggal_pencatatan": "2007-12-18",
+  "saham": 1129925000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JAWA",
+  "nama": "Jaya Agra Wattie Tbk.",
+  "tanggal_pencatatan": "2011-05-30",
+  "saham": 16232951842,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "JECC",
+  "nama": "Jembo Cable Company Tbk.",
+  "tanggal_pencatatan": "1992-11-18",
+  "saham": 756000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "JIHD",
+  "nama": "Jakarta International Hotels &",
+  "tanggal_pencatatan": "1984-02-29",
+  "saham": 2329040482,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JKON",
+  "nama": "Jaya Konstruksi Manggala Prata",
+  "tanggal_pencatatan": "2007-12-04",
+  "saham": 16308519860,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JPFA",
+  "nama": "Japfa Comfeed Indonesia Tbk.",
+  "tanggal_pencatatan": "1989-10-23",
+  "saham": 11726575201,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JRPT",
+  "nama": "Jaya Real Property Tbk.",
+  "tanggal_pencatatan": "1994-06-29",
+  "saham": 12910719100,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JSMR",
+  "nama": "Jasa Marga (Persero) Tbk.",
+  "tanggal_pencatatan": "2007-11-12",
+  "saham": 7257871200,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JSPT",
+  "nama": "Jakarta Setiabudi Internasiona",
+  "tanggal_pencatatan": "1998-01-12",
+  "saham": 2318736000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JTPE",
+  "nama": "Jasuindo Tiga Perkasa Tbk.",
+  "tanggal_pencatatan": "2002-04-16",
+  "saham": 6852050000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KAEF",
+  "nama": "Kimia Farma (Persero) Tbk.",
+  "tanggal_pencatatan": "2001-07-04",
+  "saham": 5566589677,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KARW",
+  "nama": "Meratus Jasa Prima Tbk.",
+  "tanggal_pencatatan": "1994-12-20",
+  "saham": 587152700,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "KBLI",
+  "nama": "KMI Wire & Cable Tbk.",
+  "tanggal_pencatatan": "1992-07-06",
+  "saham": 4007235107,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KBLM",
+  "nama": "Kabelindo Murni Tbk.",
+  "tanggal_pencatatan": "1992-06-01",
+  "saham": 1120000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KBLV",
+  "nama": "First Media Tbk.",
+  "tanggal_pencatatan": "2000-02-25",
+  "saham": 1742167907,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KBRI",
+  "nama": "Kertas Basuki Rachmat Indonesi",
+  "tanggal_pencatatan": "2008-07-11",
+  "saham": 8687995734,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "KDSI",
+  "nama": "Kedawung Setia Industrial Tbk.",
+  "tanggal_pencatatan": "1996-07-29",
+  "saham": 1620000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KIAS",
+  "nama": "Keramika Indonesia Assosiasi T",
+  "tanggal_pencatatan": "1994-12-08",
+  "saham": 14929100000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KICI",
+  "nama": "Kedaung Indah Can Tbk",
+  "tanggal_pencatatan": "1993-10-28",
+  "saham": 276000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KIJA",
+  "nama": "Kawasan Industri Jababeka Tbk.",
+  "tanggal_pencatatan": "1995-01-10",
+  "saham": 20824888369,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KKGI",
+  "nama": "Resource Alam Indonesia Tbk.",
+  "tanggal_pencatatan": "1991-07-01",
+  "saham": 5000000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KLBF",
+  "nama": "Kalbe Farma Tbk.",
+  "tanggal_pencatatan": "1991-07-30",
+  "saham": 46813391540,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KOBX",
+  "nama": "Kobexindo Tractors Tbk.",
+  "tanggal_pencatatan": "2012-07-05",
+  "saham": 2272500000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KOIN",
+  "nama": "Kokoh Inti Arebama Tbk",
+  "tanggal_pencatatan": "2008-04-09",
+  "saham": 980843732,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "KONI",
+  "nama": "Perdana Bangun Pusaka Tbk",
+  "tanggal_pencatatan": "1995-08-22",
+  "saham": 312000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KOPI",
+  "nama": "Mitra Energi Persada Tbk.",
+  "tanggal_pencatatan": "2015-05-04",
+  "saham": 697266668,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KPIG",
+  "nama": "MNC Tourism Indonesia Tbk.",
+  "tanggal_pencatatan": "2000-03-30",
+  "saham": 107312842189,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KRAS",
+  "nama": "Krakatau Steel (Persero) Tbk.",
+  "tanggal_pencatatan": "2010-11-10",
+  "saham": 19346396900,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KREN",
+  "nama": "Quantum Clovera Investama Tbk.",
+  "tanggal_pencatatan": "2002-06-28",
+  "saham": 18208470100,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "LAPD",
+  "nama": "JSI Sinergi Internasional Tbk.",
+  "tanggal_pencatatan": "2001-07-17",
+  "saham": 3966350139,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "LEAD",
+  "nama": "Logindo Samudramakmur Tbk.",
+  "tanggal_pencatatan": "2013-12-11",
+  "saham": 5799616328,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LINK",
+  "nama": "Link Net Tbk.",
+  "tanggal_pencatatan": "2014-06-02",
+  "saham": 2863195484,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LION",
+  "nama": "Lion Metal Works Tbk.",
+  "tanggal_pencatatan": "1993-08-20",
+  "saham": 520160000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LMPI",
+  "nama": "Langgeng Makmur Industri Tbk.",
+  "tanggal_pencatatan": "1994-10-17",
+  "saham": 1008517669,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LMSH",
+  "nama": "Lionmesh Prima Tbk.",
+  "tanggal_pencatatan": "1990-06-04",
+  "saham": 96000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LPCK",
+  "nama": "Lippo Cikarang Tbk",
+  "tanggal_pencatatan": "1997-07-24",
+  "saham": 5134685692,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "LPGI",
+  "nama": "Lippo General Insurance Tbk.",
+  "tanggal_pencatatan": "1997-07-22",
+  "saham": 3000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LPIN",
+  "nama": "Multi Prima Sejahtera Tbk",
+  "tanggal_pencatatan": "1990-02-05",
+  "saham": 425000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LPKR",
+  "nama": "Lippo Karawaci Tbk.",
+  "tanggal_pencatatan": "1996-06-28",
+  "saham": 70898018369,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "LPLI",
+  "nama": "Star Pacific Tbk",
+  "tanggal_pencatatan": "1989-10-23",
+  "saham": 1170432803,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LPPF",
+  "nama": "MDS Retailing Tbk.",
+  "tanggal_pencatatan": "1989-10-09",
+  "saham": 2227279280,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "LPPS",
+  "nama": "Lenox Pasifik Investama Tbk.",
+  "tanggal_pencatatan": "1994-03-28",
+  "saham": 2588250000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LRNA",
+  "nama": "Eka Sari Lorena Transport Tbk.",
+  "tanggal_pencatatan": "2014-04-15",
+  "saham": 350000022,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LSIP",
+  "nama": "PP London Sumatra Indonesia Tb",
+  "tanggal_pencatatan": "1996-07-05",
+  "saham": 6819963965,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "LTLS",
+  "nama": "Lautan Luas Tbk.",
+  "tanggal_pencatatan": "1997-07-21",
+  "saham": 1560000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MAGP",
+  "nama": "Multi Agro Gemilang Plantation",
+  "tanggal_pencatatan": "2013-01-16",
+  "saham": 9000000004,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MAIN",
+  "nama": "Malindo Feedmill Tbk.",
+  "tanggal_pencatatan": "2006-02-10",
+  "saham": 2238750000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MAPI",
+  "nama": "Mitra Adiperkasa Tbk.",
+  "tanggal_pencatatan": "2004-11-10",
+  "saham": 16600000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MAYA",
+  "nama": "Bank Mayapada Internasional Tb",
+  "tanggal_pencatatan": "1997-08-29",
+  "saham": 25906179152,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MBAP",
+  "nama": "Mitrabara Adiperdana Tbk.",
+  "tanggal_pencatatan": "2014-07-10",
+  "saham": 1227271952,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MBSS",
+  "nama": "Mitrabahtera Segara Sejati Tbk",
+  "tanggal_pencatatan": "2011-04-06",
+  "saham": 1750026639,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MBTO",
+  "nama": "Martina Berto Tbk.",
+  "tanggal_pencatatan": "2011-01-13",
+  "saham": 1070000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MCOR",
+  "nama": "Bank China Construction Bank I",
+  "tanggal_pencatatan": "2007-07-03",
+  "saham": 37540533209,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MDIA",
+  "nama": "Intermedia Capital Tbk.",
+  "tanggal_pencatatan": "2014-04-11",
+  "saham": 39215538400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MDKA",
+  "nama": "Merdeka Copper Gold Tbk.",
+  "tanggal_pencatatan": "2015-06-19",
+  "saham": 24472983771,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MDLN",
+  "nama": "Modernland Realty Tbk.",
+  "tanggal_pencatatan": "1993-01-18",
+  "saham": 12533067322,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MDRN",
+  "nama": "Modern Internasional Tbk.",
+  "tanggal_pencatatan": "1991-07-16",
+  "saham": 7632167798,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "MEDC",
+  "nama": "Medco Energi Internasional Tbk",
+  "tanggal_pencatatan": "1994-10-12",
+  "saham": 25136231252,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MEGA",
+  "nama": "Bank Mega Tbk.",
+  "tanggal_pencatatan": "2000-04-17",
+  "saham": 23247028262,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MERK",
+  "nama": "Merck Tbk.",
+  "tanggal_pencatatan": "1981-07-23",
+  "saham": 448000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "META",
+  "nama": "Nusantara Infrastructure Tbk.",
+  "tanggal_pencatatan": "2001-07-18",
+  "saham": 17710708194,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MFMI",
+  "nama": "Multifiling Mitra Indonesia Tb",
+  "tanggal_pencatatan": "2010-12-29",
+  "saham": 757581000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MGNA",
+  "nama": "Magna Investama Mandiri Tbk.",
+  "tanggal_pencatatan": "2014-07-08",
+  "saham": 3411195464,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MICE",
+  "nama": "Multi Indocitra Tbk.",
+  "tanggal_pencatatan": "2005-12-21",
+  "saham": 600000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MIDI",
+  "nama": "Midi Utama Indonesia Tbk.",
+  "tanggal_pencatatan": "2010-11-30",
+  "saham": 33435294800,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MIKA",
+  "nama": "Mitra Keluarga Karyasehat Tbk.",
+  "tanggal_pencatatan": "2015-03-24",
+  "saham": 13907481500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MIRA",
+  "nama": "Mitra International Resources",
+  "tanggal_pencatatan": "1997-01-30",
+  "saham": 3961452039,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MITI",
+  "nama": "Mitra Investindo Tbk.",
+  "tanggal_pencatatan": "1997-07-16",
+  "saham": 3750526603,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MKPI",
+  "nama": "Metropolitan Kentjana Tbk.",
+  "tanggal_pencatatan": "2009-07-10",
+  "saham": 948194000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MLBI",
+  "nama": "Multi Bintang Indonesia Tbk.",
+  "tanggal_pencatatan": "1981-12-15",
+  "saham": 2107000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MLIA",
+  "nama": "Mulia Industrindo Tbk",
+  "tanggal_pencatatan": "1994-01-17",
+  "saham": 6615000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MLPL",
+  "nama": "Multipolar Tbk.",
+  "tanggal_pencatatan": "1989-11-06",
+  "saham": 15682323987,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MLPT",
+  "nama": "Multipolar Technology Tbk.",
+  "tanggal_pencatatan": "2013-07-08",
+  "saham": 46875000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MMLP",
+  "nama": "Mega Manunggal Property Tbk.",
+  "tanggal_pencatatan": "2015-06-12",
+  "saham": 6889134608,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MNCN",
+  "nama": "Media Nusantara Citra Tbk.",
+  "tanggal_pencatatan": "2007-06-22",
+  "saham": 15049787710,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MPMX",
+  "nama": "Mitra Pinasthika Mustika Tbk.",
+  "tanggal_pencatatan": "2013-05-29",
+  "saham": 4386963276,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MPPA",
+  "nama": "Matahari Putra Prima Tbk.",
+  "tanggal_pencatatan": "1992-12-21",
+  "saham": 33828872408,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MRAT",
+  "nama": "Mustika Ratu Tbk.",
+  "tanggal_pencatatan": "1995-07-27",
+  "saham": 428000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MREI",
+  "nama": "Maskapai Reasuransi Indonesia",
+  "tanggal_pencatatan": "1989-09-04",
+  "saham": 517791681,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MSKY",
+  "nama": "MNC Sky Vision Tbk.",
+  "tanggal_pencatatan": "2012-07-09",
+  "saham": 1994370480,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MTDL",
+  "nama": "Metrodata Electronics Tbk.",
+  "tanggal_pencatatan": "1990-04-09",
+  "saham": 12276884585,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MTFN",
+  "nama": "Capitalinc Investment Tbk.",
+  "tanggal_pencatatan": "1990-04-16",
+  "saham": 31842082852,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "MTLA",
+  "nama": "Metropolitan Land Tbk.",
+  "tanggal_pencatatan": "2011-06-20",
+  "saham": 7655126330,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MTSM",
+  "nama": "Metro Realty Tbk.",
+  "tanggal_pencatatan": "1992-01-08",
+  "saham": 232848000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MYOH",
+  "nama": "Samindo Resources Tbk.",
+  "tanggal_pencatatan": "2000-07-27",
+  "saham": 2206312500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MYOR",
+  "nama": "Mayora Indah Tbk.",
+  "tanggal_pencatatan": "1990-07-04",
+  "saham": 22358699725,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MYTX",
+  "nama": "Asia Pacific Investama Tbk.",
+  "tanggal_pencatatan": "1989-10-10",
+  "saham": 7747281949,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "NELY",
+  "nama": "Pelayaran Nelly Dwi Putri Tbk.",
+  "tanggal_pencatatan": "2012-10-11",
+  "saham": 2350000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NIKL",
+  "nama": "Pelat Timah Nusantara Tbk.",
+  "tanggal_pencatatan": "2009-12-14",
+  "saham": 2523350000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NIRO",
+  "nama": "City Retail Developments Tbk.",
+  "tanggal_pencatatan": "2012-09-13",
+  "saham": 22198871804,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NISP",
+  "nama": "Bank OCBC NISP Tbk.",
+  "tanggal_pencatatan": "1994-10-20",
+  "saham": 22715776032,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "NOBU",
+  "nama": "Bank Nationalnobu Tbk.",
+  "tanggal_pencatatan": "2013-05-20",
+  "saham": 7403659460,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "NRCA",
+  "nama": "Nusa Raya Cipta Tbk.",
+  "tanggal_pencatatan": "2013-06-27",
+  "saham": 2496258344,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "OCAP",
+  "nama": "Onix Capital Tbk.",
+  "tanggal_pencatatan": "2003-10-10",
+  "saham": 273200000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "OKAS",
+  "nama": "Ancora Indonesia Resources Tbk",
+  "tanggal_pencatatan": "2006-03-29",
+  "saham": 2373449165,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "OMRE",
+  "nama": "Indonesia Prima Property Tbk",
+  "tanggal_pencatatan": "1994-08-22",
+  "saham": 2945211000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PADI",
+  "nama": "Minna Padi Investama Sekuritas",
+  "tanggal_pencatatan": "2012-01-09",
+  "saham": 13568695829,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PALM",
+  "nama": "Provident Investasi Bersama Tb",
+  "tanggal_pencatatan": "2012-10-08",
+  "saham": 15732874458,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PANR",
+  "nama": "Panorama Sentrawisata Tbk.",
+  "tanggal_pencatatan": "2001-09-18",
+  "saham": 1387500000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PANS",
+  "nama": "Panin Sekuritas Tbk.",
+  "tanggal_pencatatan": "2000-05-31",
+  "saham": 720000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PBRX",
+  "nama": "Pan Brothers Tbk.",
+  "tanggal_pencatatan": "1990-08-16",
+  "saham": 21482028246,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PDES",
+  "nama": "Destinasi Tirta Nusantara Tbk",
+  "tanggal_pencatatan": "2008-07-08",
+  "saham": 715000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PEGE",
+  "nama": "Panca Global Kapital Tbk.",
+  "tanggal_pencatatan": "2005-06-24",
+  "saham": 3777889408,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PGAS",
+  "nama": "Perusahaan Gas Negara (Persero",
+  "tanggal_pencatatan": "2003-12-15",
+  "saham": 24241508196,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PGLI",
+  "nama": "Pembangunan Graha Lestari Inda",
+  "tanggal_pencatatan": "2000-04-05",
+  "saham": 488000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PICO",
+  "nama": "Pelangi Indah Canindo Tbk",
+  "tanggal_pencatatan": "1996-09-23",
+  "saham": 568375000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PJAA",
+  "nama": "Pembangunan Jaya Ancol Tbk.",
+  "tanggal_pencatatan": "2004-07-02",
+  "saham": 1599999996,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PKPK",
+  "nama": "Paragon Karya Perkasa Tbk.",
+  "tanggal_pencatatan": "2007-07-11",
+  "saham": 1200000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PLIN",
+  "nama": "Plaza Indonesia Realty Tbk.",
+  "tanggal_pencatatan": "1992-06-15",
+  "saham": 3550000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PNBN",
+  "nama": "Bank Pan Indonesia Tbk",
+  "tanggal_pencatatan": "1982-12-29",
+  "saham": 23837645998,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PNBS",
+  "nama": "Bank Panin Dubai Syariah Tbk.",
+  "tanggal_pencatatan": "2014-01-15",
+  "saham": 38425504906,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PNIN",
+  "nama": "Paninvest Tbk.",
+  "tanggal_pencatatan": "1983-09-20",
+  "saham": 4068323920,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PNLF",
+  "nama": "Panin Financial Tbk.",
+  "tanggal_pencatatan": "1983-06-14",
+  "saham": 32022073293,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PNSE",
+  "nama": "Pudjiadi & Sons Tbk.",
+  "tanggal_pencatatan": "1990-05-01",
+  "saham": 797813496,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "POLY",
+  "nama": "Asia Pacific Fibers Tbk",
+  "tanggal_pencatatan": "1991-03-12",
+  "saham": 2495753334,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "POOL",
+  "nama": "Pool Advista Indonesia Tbk.",
+  "tanggal_pencatatan": "1991-05-20",
+  "saham": 2341366264,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PPRO",
+  "nama": "PP Properti Tbk.",
+  "tanggal_pencatatan": "2015-05-19",
+  "saham": 61675671883,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PSAB",
+  "nama": "J Resources Asia Pasifik Tbk.",
+  "tanggal_pencatatan": "2003-04-22",
+  "saham": 26460000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PSDN",
+  "nama": "Prasidha Aneka Niaga Tbk",
+  "tanggal_pencatatan": "1994-10-18",
+  "saham": 1440000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PSKT",
+  "nama": "Red Planet Indonesia Tbk.",
+  "tanggal_pencatatan": "1995-09-19",
+  "saham": 10351231636,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PTBA",
+  "nama": "Bukit Asam (Persero) Tbk.",
+  "tanggal_pencatatan": "2002-12-23",
+  "saham": 11520659250,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PTIS",
+  "nama": "Indo Straits Tbk.",
+  "tanggal_pencatatan": "2011-07-12",
+  "saham": 550165300,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PTPP",
+  "nama": "PP (Persero) Tbk.",
+  "tanggal_pencatatan": "2010-02-09",
+  "saham": 6199897354,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PTRO",
+  "nama": "Petrosea Tbk.",
+  "tanggal_pencatatan": "1990-05-21",
+  "saham": 10086050000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PTSN",
+  "nama": "Sat Nusapersada Tbk",
+  "tanggal_pencatatan": "2007-11-08",
+  "saham": 5314344000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PTSP",
+  "nama": "Pioneerindo Gourmet Internatio",
+  "tanggal_pencatatan": "1994-05-30",
+  "saham": 220808000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PUDP",
+  "nama": "Pudjiadi Prestige Tbk.",
+  "tanggal_pencatatan": "1994-11-18",
+  "saham": 659120000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PWON",
+  "nama": "Pakuwon Jati Tbk.",
+  "tanggal_pencatatan": "1989-10-09",
+  "saham": 48159602400,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PYFA",
+  "nama": "Pyridam Farma Tbk",
+  "tanggal_pencatatan": "2001-10-16",
+  "saham": 11236752641,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RAJA",
+  "nama": "Rukun Raharja Tbk.",
+  "tanggal_pencatatan": "2006-04-19",
+  "saham": 21135412500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "RALS",
+  "nama": "Ramayana Lestari Sentosa Tbk.",
+  "tanggal_pencatatan": "1996-07-24",
+  "saham": 7096000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "RANC",
+  "nama": "Supra Boga Lestari Tbk.",
+  "tanggal_pencatatan": "2012-06-07",
+  "saham": 1564487500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RBMS",
+  "nama": "Ristia Bintang Mahkotasejati T",
+  "tanggal_pencatatan": "1997-12-19",
+  "saham": 2656212826,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RDTX",
+  "nama": "Roda Vivatex Tbk",
+  "tanggal_pencatatan": "1990-05-14",
+  "saham": 268800000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RELI",
+  "nama": "Reliance Sekuritas Indonesia T",
+  "tanggal_pencatatan": "2005-07-13",
+  "saham": 1800000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RICY",
+  "nama": "Ricky Putra Globalindo Tbk",
+  "tanggal_pencatatan": "1998-01-22",
+  "saham": 641717510,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RIGS",
+  "nama": "Rig Tenders Indonesia Tbk.",
+  "tanggal_pencatatan": "1990-03-05",
+  "saham": 609130000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RIMO",
+  "nama": "Rimo International Lestari Tbk",
+  "tanggal_pencatatan": "2000-11-10",
+  "saham": 45080600000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RODA",
+  "nama": "Pikko Land Development Tbk.",
+  "tanggal_pencatatan": "2001-10-22",
+  "saham": 13592128209,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ROTI",
+  "nama": "Nippon Indosari Corpindo Tbk.",
+  "tanggal_pencatatan": "2010-06-28",
+  "saham": 6186488888,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RUIS",
+  "nama": "Radiant Utama Interinsco Tbk.",
+  "tanggal_pencatatan": "2006-07-12",
+  "saham": 770000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SAFE",
+  "nama": "Steady Safe Tbk",
+  "tanggal_pencatatan": "1994-08-15",
+  "saham": 821207512,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SAME",
+  "nama": "Sarana Meditama Metropolitan T",
+  "tanggal_pencatatan": "2013-01-11",
+  "saham": 17164632545,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SCCO",
+  "nama": "Supreme Cable Manufacturing &",
+  "tanggal_pencatatan": "1982-07-20",
+  "saham": 822333600,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SCMA",
+  "nama": "Surya Citra Media Tbk.",
+  "tanggal_pencatatan": "2002-07-16",
+  "saham": 63564703280,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SCPI",
+  "nama": "Organon Pharma Indonesia Tbk.",
+  "tanggal_pencatatan": "1990-06-08",
+  "saham": 3600000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SDMU",
+  "nama": "Sidomulyo Selaras Tbk.",
+  "tanggal_pencatatan": "2011-07-12",
+  "saham": 2250691100,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SDPC",
+  "nama": "Millennium Pharmacon Internati",
+  "tanggal_pencatatan": "1990-05-07",
+  "saham": 1274000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SDRA",
+  "nama": "Bank Woori Saudara Indonesia 1",
+  "tanggal_pencatatan": "2006-12-15",
+  "saham": 14545267990,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SGRO",
+  "nama": "Prime Agri Resources Tbk.",
+  "tanggal_pencatatan": "2007-06-18",
+  "saham": 1818622000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SHID",
+  "nama": "Hotel Sahid Jaya International",
+  "tanggal_pencatatan": "1990-05-08",
+  "saham": 1119326168,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SIDO",
+  "nama": "Industri Jamu dan Farmasi Sido",
+  "tanggal_pencatatan": "2013-12-18",
+  "saham": 30000000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SILO",
+  "nama": "Siloam International Hospitals",
+  "tanggal_pencatatan": "2013-09-12",
+  "saham": 13006125000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SIMA",
+  "nama": "Siwani Makmur Tbk",
+  "tanggal_pencatatan": "1994-06-03",
+  "saham": 442589871,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "SIMP",
+  "nama": "Salim Ivomas Pratama Tbk.",
+  "tanggal_pencatatan": "2011-06-09",
+  "saham": 15501310000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SIPD",
+  "nama": "Sreeya Sewu Indonesia Tbk.",
+  "tanggal_pencatatan": "1996-12-27",
+  "saham": 1839102056,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SKBM",
+  "nama": "Sekar Bumi Tbk.",
+  "tanggal_pencatatan": "2012-09-28",
+  "saham": 1730103217,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SKLT",
+  "nama": "Sekar Laut Tbk.",
+  "tanggal_pencatatan": "1993-09-08",
+  "saham": 6907405000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMAR",
+  "nama": "Sinar Mas Agro Resources and T",
+  "tanggal_pencatatan": "1992-11-20",
+  "saham": 2872193366,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SMBR",
+  "nama": "Semen Baturaja (Persero) Tbk.",
+  "tanggal_pencatatan": "2013-06-28",
+  "saham": 9932534336,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SMCB",
+  "nama": "Solusi Bangun Indonesia Tbk.",
+  "tanggal_pencatatan": "1977-08-10",
+  "saham": 9019381973,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SMDM",
+  "nama": "Suryamas Dutamakmur Tbk.",
+  "tanggal_pencatatan": "1995-10-12",
+  "saham": 4772138237,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMDR",
+  "nama": "Samudera Indonesia  Tbk.",
+  "tanggal_pencatatan": "1999-07-05",
+  "saham": 16375600000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SMGR",
+  "nama": "Semen Indonesia (Persero) Tbk.",
+  "tanggal_pencatatan": "1991-07-08",
+  "saham": 6751540089,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SMMA",
+  "nama": "Sinarmas Multiartha Tbk.",
+  "tanggal_pencatatan": "1995-07-05",
+  "saham": 6367664717,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMMT",
+  "nama": "Golden Eagle Energy Tbk.",
+  "tanggal_pencatatan": "1997-12-01",
+  "saham": 3425000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMRA",
+  "nama": "Summarecon Agung Tbk.",
+  "tanggal_pencatatan": "1990-05-07",
+  "saham": 16508568358,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SMRU",
+  "nama": "SMR Utama Tbk.",
+  "tanggal_pencatatan": "2011-10-10",
+  "saham": 12499385782,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "SMSM",
+  "nama": "Selamat Sempurna Tbk.",
+  "tanggal_pencatatan": "1996-09-09",
+  "saham": 5758675440,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SOCI",
+  "nama": "Soechi Lines Tbk.",
+  "tanggal_pencatatan": "2014-12-03",
+  "saham": 7059000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SONA",
+  "nama": "Sona Topas Tourism Industry Tb",
+  "tanggal_pencatatan": "1992-07-21",
+  "saham": 662400000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SPMA",
+  "nama": "Suparma Tbk.",
+  "tanggal_pencatatan": "1994-11-16",
+  "saham": 5330410085,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SQMI",
+  "nama": "Wilton Makmur Indonesia Tbk.",
+  "tanggal_pencatatan": "2004-07-15",
+  "saham": 15537591429,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SRAJ",
+  "nama": "Sejahteraraya Anugrahjaya Tbk.",
+  "tanggal_pencatatan": "2011-04-11",
+  "saham": 12238959990,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SRSN",
+  "nama": "Indo Acidatama Tbk",
+  "tanggal_pencatatan": "1993-01-11",
+  "saham": 6020000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SRTG",
+  "nama": "Saratoga Investama Sedaya Tbk.",
+  "tanggal_pencatatan": "2013-06-26",
+  "saham": 13564835000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SSIA",
+  "nama": "Surya Semesta Internusa Tbk.",
+  "tanggal_pencatatan": "1997-03-27",
+  "saham": 4705249440,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SSMS",
+  "nama": "Sawit Sumbermas Sarana Tbk.",
+  "tanggal_pencatatan": "2013-12-12",
+  "saham": 9525000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SSTM",
+  "nama": "Sunson Textile Manufacture Tbk",
+  "tanggal_pencatatan": "1997-08-20",
+  "saham": 1170909181,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "STAR",
+  "nama": "Calculus Global Ventures Tbk.",
+  "tanggal_pencatatan": "2011-07-13",
+  "saham": 4800000602,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "STTP",
+  "nama": "Siantar Top Tbk.",
+  "tanggal_pencatatan": "1996-12-16",
+  "saham": 1310000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SULI",
+  "nama": "SLJ Global Tbk.",
+  "tanggal_pencatatan": "1994-03-21",
+  "saham": 6320776836,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SUPR",
+  "nama": "Solusi Tunas Pratama Tbk.",
+  "tanggal_pencatatan": "2011-10-11",
+  "saham": 1137579698,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TALF",
+  "nama": "Tunas Alfin Tbk.",
+  "tanggal_pencatatan": "2014-01-17",
+  "saham": 1353435000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TARA",
+  "nama": "Agung Semesta Sejahtera Tbk.",
+  "tanggal_pencatatan": "2014-07-11",
+  "saham": 10069645750,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TAXI",
+  "nama": "Express Transindo Utama Tbk.",
+  "tanggal_pencatatan": "2012-11-02",
+  "saham": 10223647156,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TBIG",
+  "nama": "Tower Bersama Infrastructure T",
+  "tanggal_pencatatan": "2010-10-26",
+  "saham": 22656999445,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TBLA",
+  "nama": "Tunas Baru Lampung Tbk.",
+  "tanggal_pencatatan": "2000-02-14",
+  "saham": 6025373372,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TBMS",
+  "nama": "Tembaga Mulia Semanan Tbk.",
+  "tanggal_pencatatan": "1990-05-23",
+  "saham": 734680000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TCID",
+  "nama": "Mandom Indonesia Tbk.",
+  "tanggal_pencatatan": "1993-09-30",
+  "saham": 402133334,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TFCO",
+  "nama": "Tifico Fiber Indonesia Tbk.",
+  "tanggal_pencatatan": "1980-02-26",
+  "saham": 4823076400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TGKA",
+  "nama": "Tigaraksa Satria Tbk.",
+  "tanggal_pencatatan": "1990-06-11",
+  "saham": 918492750,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TIFA",
+  "nama": "KDB Tifa Finance Tbk.",
+  "tanggal_pencatatan": "2011-07-08",
+  "saham": 3552213000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TINS",
+  "nama": "TIMAH (Persero) Tbk.",
+  "tanggal_pencatatan": "1995-10-19",
+  "saham": 7447753454,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TIRA",
+  "nama": "Tira Austenite Tbk",
+  "tanggal_pencatatan": "1993-07-27",
+  "saham": 588000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TIRT",
+  "nama": "Tirta Mahakam Resources Tbk",
+  "tanggal_pencatatan": "1999-12-13",
+  "saham": 1011774750,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "TKIM",
+  "nama": "Pabrik Kertas Tjiwi Kimia Tbk.",
+  "tanggal_pencatatan": "1990-04-03",
+  "saham": 3113223570,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TLKM",
+  "nama": "Telkom Indonesia (Persero) Tbk",
+  "tanggal_pencatatan": "1995-11-14",
+  "saham": 99062216600,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TMAS",
+  "nama": "Temas Tbk.",
+  "tanggal_pencatatan": "2003-07-09",
+  "saham": 57051500000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TMPO",
+  "nama": "Tempo Intimedia Tbk.",
+  "tanggal_pencatatan": "2001-01-08",
+  "saham": 1058333250,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TOBA",
+  "nama": "TBS Energi Utama Tbk.",
+  "tanggal_pencatatan": "2012-07-06",
+  "saham": 8319512975,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TOTL",
+  "nama": "Total Bangun Persada Tbk.",
+  "tanggal_pencatatan": "2006-07-25",
+  "saham": 3410000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TOTO",
+  "nama": "Surya Toto Indonesia Tbk.",
+  "tanggal_pencatatan": "1990-10-30",
+  "saham": 10320000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TOWR",
+  "nama": "Sarana Menara Nusantara Tbk.",
+  "tanggal_pencatatan": "2010-03-08",
+  "saham": 59098103731,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TPIA",
+  "nama": "Chandra Asri Pacific Tbk.",
+  "tanggal_pencatatan": "2008-05-26",
+  "saham": 86511545092,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TPMA",
+  "nama": "Trans Power Marine Tbk.",
+  "tanggal_pencatatan": "2013-02-20",
+  "saham": 3507420034,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TRAM",
+  "nama": "Trada Alam Minera Tbk.",
+  "tanggal_pencatatan": "2008-09-10",
+  "saham": 49643627934,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TRIM",
+  "nama": "Trimegah Sekuritas Indonesia T",
+  "tanggal_pencatatan": "2000-01-31",
+  "saham": 7109300000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TRIO",
+  "nama": "Trikomsel Oke Tbk.",
+  "tanggal_pencatatan": "2009-04-14",
+  "saham": 26007494645,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "TRIS",
+  "nama": "Trisula International Tbk.",
+  "tanggal_pencatatan": "2012-06-28",
+  "saham": 3141443831,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TRST",
+  "nama": "Trias Sentosa Tbk.",
+  "tanggal_pencatatan": "1990-07-02",
+  "saham": 2808000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TRUS",
+  "nama": "Trust Finance Indonesia Tbk",
+  "tanggal_pencatatan": "2002-11-28",
+  "saham": 800000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TSPC",
+  "nama": "Tempo Scan Pacific Tbk.",
+  "tanggal_pencatatan": "1994-06-17",
+  "saham": 4509864300,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ULTJ",
+  "nama": "Ultrajaya Milk Industry & Trad",
+  "tanggal_pencatatan": "1990-07-02",
+  "saham": 10398175200,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "UNIC",
+  "nama": "Unggul Indah Cahaya Tbk.",
+  "tanggal_pencatatan": "1989-11-06",
+  "saham": 383331363,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "UNSP",
+  "nama": "Bakrie Sumatera Plantations Tb",
+  "tanggal_pencatatan": "1990-03-06",
+  "saham": 17005275078,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "UNTR",
+  "nama": "United Tractors Tbk.",
+  "tanggal_pencatatan": "1989-09-19",
+  "saham": 3730135136,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "UNVR",
+  "nama": "Unilever Indonesia Tbk.",
+  "tanggal_pencatatan": "1982-01-11",
+  "saham": 38150000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "VICO",
+  "nama": "Victoria Investama Tbk.",
+  "tanggal_pencatatan": "2013-07-08",
+  "saham": 15217075658,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "VINS",
+  "nama": "Victoria Insurance Tbk.",
+  "tanggal_pencatatan": "2015-09-28",
+  "saham": 1553430759,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "VIVA",
+  "nama": "Visi Media Asia Tbk.",
+  "tanggal_pencatatan": "2011-11-21",
+  "saham": 16464270400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "VOKS",
+  "nama": "Voksel Electric Tbk.",
+  "tanggal_pencatatan": "1990-12-20",
+  "saham": 4155602595,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "VRNA",
+  "nama": "Mizuho Leasing Indonesia Tbk.",
+  "tanggal_pencatatan": "2008-06-25",
+  "saham": 5687353997,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WAPO",
+  "nama": "Wahana Pronatural Tbk.",
+  "tanggal_pencatatan": "2001-06-22",
+  "saham": 1240923111,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WEHA",
+  "nama": "WEHA Transportasi Indonesia Tb",
+  "tanggal_pencatatan": "2007-05-31",
+  "saham": 1460554819,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WICO",
+  "nama": "Wicaksana Overseas Internation",
+  "tanggal_pencatatan": "1994-08-08",
+  "saham": 2393710348,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "WIIM",
+  "nama": "Wismilak Inti Makmur Tbk.",
+  "tanggal_pencatatan": "2012-12-18",
+  "saham": 2099873760,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "WIKA",
+  "nama": "Wijaya Karya (Persero) Tbk.",
+  "tanggal_pencatatan": "2007-10-29",
+  "saham": 39873063858,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WINS",
+  "nama": "Wintermar Offshore Marine Tbk.",
+  "tanggal_pencatatan": "2010-11-29",
+  "saham": 4523065893,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "WOMF",
+  "nama": "Wahana Ottomitra Multiartha Tb",
+  "tanggal_pencatatan": "2004-12-13",
+  "saham": 3481481480,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WSKT",
+  "nama": "Waskita Karya (Persero) Tbk.",
+  "tanggal_pencatatan": "2012-12-19",
+  "saham": 28806807016,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "WTON",
+  "nama": "Wijaya Karya Beton Tbk.",
+  "tanggal_pencatatan": "2014-04-08",
+  "saham": 8715466600,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "YPAS",
+  "nama": "Yanaprima Hastapersada Tbk",
+  "tanggal_pencatatan": "2008-03-05",
+  "saham": 668000089,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "YULE",
+  "nama": "Yulie Sekuritas Indonesia Tbk.",
+  "tanggal_pencatatan": "2004-12-10",
+  "saham": 1785000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ZBRA",
+  "nama": "Dosni Roha Indonesia Tbk.",
+  "tanggal_pencatatan": "1991-08-01",
+  "saham": 2510706263,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "SHIP",
+  "nama": "Sillo Maritime Perdana Tbk.",
+  "tanggal_pencatatan": "2016-06-16",
+  "saham": 2719790000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CASA",
+  "nama": "Capital Financial Indonesia Tb",
+  "tanggal_pencatatan": "2016-07-19",
+  "saham": 54476269803,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DAYA",
+  "nama": "Duta Intidaya Tbk.",
+  "tanggal_pencatatan": "2016-06-28",
+  "saham": 2420547025,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DPUM",
+  "nama": "Dua Putra Utama Makmur Tbk.",
+  "tanggal_pencatatan": "2015-12-08",
+  "saham": 4175000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IDPR",
+  "nama": "Indonesia Pondasi Raya Tbk.",
+  "tanggal_pencatatan": "2015-12-10",
+  "saham": 2003000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "JGLE",
+  "nama": "Graha Andrasentra Propertindo",
+  "tanggal_pencatatan": "2016-06-29",
+  "saham": 22581909405,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KINO",
+  "nama": "Kino Indonesia Tbk.",
+  "tanggal_pencatatan": "2015-12-11",
+  "saham": 1428571500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MARI",
+  "nama": "Mahaka Radio Integra Tbk.",
+  "tanggal_pencatatan": "2016-02-11",
+  "saham": 5252644000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "MKNT",
+  "nama": "Remitra Global International T",
+  "tanggal_pencatatan": "2015-10-26",
+  "saham": 1029990000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "OASA",
+  "nama": "Maharaksa Biru Energi Tbk.",
+  "tanggal_pencatatan": "2016-07-18",
+  "saham": 6347220000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "POWR",
+  "nama": "Cikarang Listrindo Tbk.",
+  "tanggal_pencatatan": "2016-06-14",
+  "saham": 16087156000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "INCF",
+  "nama": "Indo Komoditi Korpora Tbk.",
+  "tanggal_pencatatan": "2016-09-06",
+  "saham": 1438370465,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WSBP",
+  "nama": "Waskita Beton Precast Tbk.",
+  "tanggal_pencatatan": "2016-09-20",
+  "saham": 57013458811,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "PBSA",
+  "nama": "Paramita Bangun Sarana Tbk.",
+  "tanggal_pencatatan": "2016-09-28",
+  "saham": 6000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PRDA",
+  "nama": "Prodia Widyahusada Tbk.",
+  "tanggal_pencatatan": "2016-12-07",
+  "saham": 937500000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BOGA",
+  "nama": "Apollo Global Interactive Tbk.",
+  "tanggal_pencatatan": "2016-12-19",
+  "saham": 3803526210,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BRIS",
+  "nama": "Bank Syariah Indonesia (Perser",
+  "tanggal_pencatatan": "2018-05-09",
+  "saham": 45667877639,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PORT",
+  "nama": "Nusantara Pelabuhan Handal Tbk",
+  "tanggal_pencatatan": "2017-03-16",
+  "saham": 2813941985,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CARS",
+  "nama": "Industri dan Perdagangan Bintr",
+  "tanggal_pencatatan": "2017-04-10",
+  "saham": 15000000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MINA",
+  "nama": "Sanurhasta Mitra Tbk.",
+  "tanggal_pencatatan": "2017-04-28",
+  "saham": 9843750000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CLEO",
+  "nama": "Sariguna Primatirta Tbk.",
+  "tanggal_pencatatan": "2017-05-05",
+  "saham": 24000000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TAMU",
+  "nama": "Pelayaran Tamarin Samudra Tbk.",
+  "tanggal_pencatatan": "2017-05-10",
+  "saham": 37500000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CSIS",
+  "nama": "Cahayasakti Investindo Sukses",
+  "tanggal_pencatatan": "2017-05-10",
+  "saham": 1829805267,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TGRA",
+  "nama": "Terregra Asia Energy Tbk.",
+  "tanggal_pencatatan": "2017-05-16",
+  "saham": 2750000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "FIRE",
+  "nama": "Alfa Energi Investama Tbk.",
+  "tanggal_pencatatan": "2017-06-09",
+  "saham": 1475363179,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TOPS",
+  "nama": "Totalindo Eka Persada Tbk.",
+  "tanggal_pencatatan": "2017-06-16",
+  "saham": 33330000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "KMTR",
+  "nama": "Kirana Megatara Tbk.",
+  "tanggal_pencatatan": "2017-06-19",
+  "saham": 8215366379,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ARMY",
+  "nama": "Armidian Karyatama Tbk.",
+  "tanggal_pencatatan": "2017-06-21",
+  "saham": 9006250000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MAPB",
+  "nama": "MAP Boga Adiperkasa Tbk.",
+  "tanggal_pencatatan": "2017-06-21",
+  "saham": 2387922900,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WOOD",
+  "nama": "Integra Indocabinet Tbk.",
+  "tanggal_pencatatan": "2017-06-21",
+  "saham": 6437500000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "HRTA",
+  "nama": "Hartadinata Abadi Tbk.",
+  "tanggal_pencatatan": "2017-06-21",
+  "saham": 4605262400,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "HOKI",
+  "nama": "Buyung Poetra Sembada Tbk.",
+  "tanggal_pencatatan": "2017-06-22",
+  "saham": 9677752680,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MPOW",
+  "nama": "Megapower Makmur Tbk.",
+  "tanggal_pencatatan": "2017-07-05",
+  "saham": 816997053,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MARK",
+  "nama": "Mark Dynamics Indonesia Tbk.",
+  "tanggal_pencatatan": "2017-07-12",
+  "saham": 3800000310,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "NASA",
+  "nama": "Andalan Perkasa Abadi Tbk.",
+  "tanggal_pencatatan": "2017-08-07",
+  "saham": 11004929322,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MDKI",
+  "nama": "Emdeki Utama Tbk.",
+  "tanggal_pencatatan": "2017-09-25",
+  "saham": 2530150002,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BELL",
+  "nama": "Trisula Textile Industries Tbk",
+  "tanggal_pencatatan": "2017-10-03",
+  "saham": 7250000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KIOS",
+  "nama": "Kioson Komersial Indonesia Tbk",
+  "tanggal_pencatatan": "2017-10-05",
+  "saham": 1075862960,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GMFI",
+  "nama": "Garuda Maintenance Facility Ae",
+  "tanggal_pencatatan": "2017-10-10",
+  "saham": 124835258434,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MTWI",
+  "nama": "Malacca Trust Wuwungan Insuran",
+  "tanggal_pencatatan": "2017-10-12",
+  "saham": 2924486639,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ZINC",
+  "nama": "Kapuas Prima Coal Tbk.",
+  "tanggal_pencatatan": "2017-10-16",
+  "saham": 25250000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "MCAS",
+  "nama": "M Cash Integrasi Tbk.",
+  "tanggal_pencatatan": "2017-11-01",
+  "saham": 867933300,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PPRE",
+  "nama": "PP Presisi Tbk.",
+  "tanggal_pencatatan": "2017-11-24",
+  "saham": 10224271000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WEGE",
+  "nama": "Wijaya Karya Bangunan Gedung T",
+  "tanggal_pencatatan": "2017-11-30",
+  "saham": 9572000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PSSI",
+  "nama": "IMC Pelita Logistik Tbk.",
+  "tanggal_pencatatan": "2017-12-05",
+  "saham": 5417063153,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MORA",
+  "nama": "Ekamas Mora Republik Tbk.",
+  "tanggal_pencatatan": "2022-08-08",
+  "saham": 47774192736,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DWGL",
+  "nama": "Dwi Guna Laksana Tbk.",
+  "tanggal_pencatatan": "2017-12-13",
+  "saham": 9252820991,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PBID",
+  "nama": "Panca Budi Idaman Tbk.",
+  "tanggal_pencatatan": "2017-12-13",
+  "saham": 7500000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JMAS",
+  "nama": "Asuransi Jiwa Syariah Jasa Mit",
+  "tanggal_pencatatan": "2017-12-18",
+  "saham": 1000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CAMP",
+  "nama": "Campina Ice Cream Industry Tbk",
+  "tanggal_pencatatan": "2017-12-19",
+  "saham": 5885000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IPCM",
+  "nama": "Jasa Armada Indonesia Tbk.",
+  "tanggal_pencatatan": "2017-12-22",
+  "saham": 5284811100,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PCAR",
+  "nama": "Prima Cakrawala Abadi Tbk.",
+  "tanggal_pencatatan": "2017-12-29",
+  "saham": 1166666700,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LCKM",
+  "nama": "LCK Global Kedaton Tbk.",
+  "tanggal_pencatatan": "2018-01-16",
+  "saham": 1000000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "BOSS",
+  "nama": "Borneo Olah Sarana Sukses Tbk.",
+  "tanggal_pencatatan": "2018-02-15",
+  "saham": 1400000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "HELI",
+  "nama": "Jaya Trishindo Tbk.",
+  "tanggal_pencatatan": "2018-03-27",
+  "saham": 832862387,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "JSKY",
+  "nama": "Sky Energy Indonesia Tbk.",
+  "tanggal_pencatatan": "2018-03-28",
+  "saham": 2032540000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "INPS",
+  "nama": "Indah Prakasa Sentosa Tbk.",
+  "tanggal_pencatatan": "2018-04-06",
+  "saham": 650000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "GHON",
+  "nama": "Gihon Telekomunikasi Indonesia",
+  "tanggal_pencatatan": "2018-04-09",
+  "saham": 550000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DFAM",
+  "nama": "Dafam Property Indonesia Tbk.",
+  "tanggal_pencatatan": "2018-04-27",
+  "saham": 1899852850,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NICK",
+  "nama": "Charnic Capital Tbk.",
+  "tanggal_pencatatan": "2018-05-02",
+  "saham": 651150000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BTPS",
+  "nama": "Bank BTPN Syariah Tbk.",
+  "tanggal_pencatatan": "2018-05-08",
+  "saham": 7626663000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SPTO",
+  "nama": "Surya Pertiwi Tbk.",
+  "tanggal_pencatatan": "2018-05-14",
+  "saham": 2700000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PRIM",
+  "nama": "Royal Prima Tbk.",
+  "tanggal_pencatatan": "2018-05-15",
+  "saham": 3393434905,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HEAL",
+  "nama": "Medikaloka Hermina Tbk.",
+  "tanggal_pencatatan": "2018-05-16",
+  "saham": 15365950000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TRUK",
+  "nama": "Guna Timur Raya Tbk.",
+  "tanggal_pencatatan": "2018-05-23",
+  "saham": 435000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PZZA",
+  "nama": "Sarimelati Kencana Tbk.",
+  "tanggal_pencatatan": "2018-05-23",
+  "saham": 3021875000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TUGU",
+  "nama": "Asuransi Tugu Pratama Indonesi",
+  "tanggal_pencatatan": "2018-05-28",
+  "saham": 3555575600,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MSIN",
+  "nama": "MNC Digital Entertainment Tbk.",
+  "tanggal_pencatatan": "2018-06-08",
+  "saham": 60676178205,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SWAT",
+  "nama": "Sriwahana Adityakarta Tbk.",
+  "tanggal_pencatatan": "2018-06-08",
+  "saham": 3019200000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "TNCA",
+  "nama": "Trimuda Nuansa Citra Tbk.",
+  "tanggal_pencatatan": "2018-06-28",
+  "saham": 421640000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MAPA",
+  "nama": "Map Aktif Adiperkasa Tbk.",
+  "tanggal_pencatatan": "2018-07-05",
+  "saham": 28504000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TCPI",
+  "nama": "Transcoal Pacific Tbk.",
+  "tanggal_pencatatan": "2018-07-06",
+  "saham": 5000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IPCC",
+  "nama": "Indonesia Kendaraan Terminal T",
+  "tanggal_pencatatan": "2018-07-09",
+  "saham": 1818384820,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "RISE",
+  "nama": "Jaya Sukses Makmur Sentosa Tbk",
+  "tanggal_pencatatan": "2018-07-09",
+  "saham": 16198599990,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BPTR",
+  "nama": "Batavia Prosperindo Trans Tbk.",
+  "tanggal_pencatatan": "2018-07-09",
+  "saham": 3534000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "POLL",
+  "nama": "Pollux Properties Indonesia Tb",
+  "tanggal_pencatatan": "2018-07-11",
+  "saham": 8318823600,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NFCX",
+  "nama": "NFC Indonesia Tbk.",
+  "tanggal_pencatatan": "2018-07-12",
+  "saham": 666667500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MGRO",
+  "nama": "Mahkota Group Tbk.",
+  "tanggal_pencatatan": "2018-07-12",
+  "saham": 3554445700,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NUSA",
+  "nama": "Sinergi Megah Internusa Tbk.",
+  "tanggal_pencatatan": "2018-07-12",
+  "saham": 7700000148,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FILM",
+  "nama": "MD Entertainment Tbk.",
+  "tanggal_pencatatan": "2018-08-07",
+  "saham": 10887566758,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ANDI",
+  "nama": "Andira Agro Tbk.",
+  "tanggal_pencatatan": "2018-08-16",
+  "saham": 9350000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LAND",
+  "nama": "Trimitra Propertindo Tbk.",
+  "tanggal_pencatatan": "2018-08-23",
+  "saham": 2792620000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MOLI",
+  "nama": "Madusari Murni Indah Tbk.",
+  "tanggal_pencatatan": "2018-08-30",
+  "saham": 2724036581,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PANI",
+  "nama": "Pantai Indah Kapuk Dua Tbk.",
+  "tanggal_pencatatan": "2018-09-18",
+  "saham": 18189502198,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DIGI",
+  "nama": "Arkadia Digital Media Tbk.",
+  "tanggal_pencatatan": "2018-09-18",
+  "saham": 1625000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "CITY",
+  "nama": "Natura City Developments Tbk.",
+  "tanggal_pencatatan": "2018-09-28",
+  "saham": 5405188966,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SAPX",
+  "nama": "Satria Antaran Prima Tbk.",
+  "tanggal_pencatatan": "2018-10-03",
+  "saham": 833333300,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SURE",
+  "nama": "Super Energy Tbk.",
+  "tanggal_pencatatan": "2018-10-05",
+  "saham": 1497576771,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HKMU",
+  "nama": "HK Metals Utama Tbk.",
+  "tanggal_pencatatan": "2018-10-09",
+  "saham": 3221750000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "MPRO",
+  "nama": "Maha Properti Indonesia Tbk.",
+  "tanggal_pencatatan": "2018-10-09",
+  "saham": 9942500000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GOOD",
+  "nama": "Garudafood Putra Putri Jaya Tb",
+  "tanggal_pencatatan": "2018-10-10",
+  "saham": 36897901455,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SKRN",
+  "nama": "Superkrane Mitra Utama Tbk.",
+  "tanggal_pencatatan": "2018-10-11",
+  "saham": 7500000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "YELO",
+  "nama": "Yelooo Integra Datanet Tbk.",
+  "tanggal_pencatatan": "2018-10-29",
+  "saham": 1912774405,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CAKK",
+  "nama": "Cahayaputra Asa Keramik Tbk.",
+  "tanggal_pencatatan": "2018-10-31",
+  "saham": 1203300219,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SATU",
+  "nama": "Kota Satu Properti Tbk.",
+  "tanggal_pencatatan": "2018-11-05",
+  "saham": 1375000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SOSS",
+  "nama": "ALSOK Indonesia Services Tbk.",
+  "tanggal_pencatatan": "2018-11-06",
+  "saham": 974525743,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DEAL",
+  "nama": "Dewata Freightinternational Tb",
+  "tanggal_pencatatan": "2018-11-11",
+  "saham": 1146170959,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "POLA",
+  "nama": "Pool Advista Finance Tbk.",
+  "tanggal_pencatatan": "2018-11-16",
+  "saham": 3351075600,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DIVA",
+  "nama": "Distribusi Voucher Nusantara T",
+  "tanggal_pencatatan": "2018-11-27",
+  "saham": 1428571400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LUCK",
+  "nama": "Sentral Mitra Informatika Tbk.",
+  "tanggal_pencatatan": "2018-11-28",
+  "saham": 715749640,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "URBN",
+  "nama": "Urban Jakarta Propertindo Tbk.",
+  "tanggal_pencatatan": "2018-12-10",
+  "saham": 3232122640,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SOTS",
+  "nama": "Satria Mega Kencana Tbk.",
+  "tanggal_pencatatan": "2018-12-10",
+  "saham": 1000003979,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ZONE",
+  "nama": "Mega Perintis Tbk.",
+  "tanggal_pencatatan": "2018-12-12",
+  "saham": 870171478,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PEHA",
+  "nama": "Phapros Tbk.",
+  "tanggal_pencatatan": "2018-12-26",
+  "saham": 840000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FOOD",
+  "nama": "Sentra Food Indonesia Tbk.",
+  "tanggal_pencatatan": "2019-01-08",
+  "saham": 650000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "BEEF",
+  "nama": "Estika Tata Tiara Tbk.",
+  "tanggal_pencatatan": "2019-01-10",
+  "saham": 8120249598,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "POLI",
+  "nama": "Pollux Hotels Group Tbk.",
+  "tanggal_pencatatan": "2019-01-10",
+  "saham": 2010526400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CLAY",
+  "nama": "Citra Putra Realty Tbk.",
+  "tanggal_pencatatan": "2019-01-18",
+  "saham": 2570000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NATO",
+  "nama": "Olympus Strategic Indonesia Tb",
+  "tanggal_pencatatan": "2019-01-18",
+  "saham": 8001111504,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "JAYA",
+  "nama": "Armada Berjaya Trans Tbk.",
+  "tanggal_pencatatan": "2019-02-21",
+  "saham": 798499394,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "COCO",
+  "nama": "Wahana Interfood Nusantara Tbk",
+  "tanggal_pencatatan": "2019-03-20",
+  "saham": 14237823696,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MTPS",
+  "nama": "Meta Epsi Tbk.",
+  "tanggal_pencatatan": "2019-04-10",
+  "saham": 2084850829,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "CPRI",
+  "nama": "Capri Nusa Satu Properti Tbk.",
+  "tanggal_pencatatan": "2019-04-11",
+  "saham": 2433379958,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HRME",
+  "nama": "Menteng Heritage Realty Tbk.",
+  "tanggal_pencatatan": "2019-04-12",
+  "saham": 5958750000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "POSA",
+  "nama": "Bliss Properti Indonesia Tbk.",
+  "tanggal_pencatatan": "2019-05-10",
+  "saham": 8388870206,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "JAST",
+  "nama": "Jasnita Telekomindo Tbk.",
+  "tanggal_pencatatan": "2019-05-16",
+  "saham": 1082575738,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FITT",
+  "nama": "Fortune Resources Investment T",
+  "tanggal_pencatatan": "2019-06-11",
+  "saham": 1304272051,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BOLA",
+  "nama": "Bali Bintang Sejahtera Tbk.",
+  "tanggal_pencatatan": "2019-06-17",
+  "saham": 6000000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CCSI",
+  "nama": "Communication Cable Systems In",
+  "tanggal_pencatatan": "2019-06-18",
+  "saham": 1333333331,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SFAN",
+  "nama": "Surya Fajar Capital Tbk.",
+  "tanggal_pencatatan": "2019-06-19",
+  "saham": 1359934021,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "POLU",
+  "nama": "Golden Flower Tbk.",
+  "tanggal_pencatatan": "2019-06-26",
+  "saham": 750000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KJEN",
+  "nama": "Krida Jaringan Nusantara Tbk.",
+  "tanggal_pencatatan": "2019-07-01",
+  "saham": 500000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KAYU",
+  "nama": "Darmi Bersaudara Tbk.",
+  "tanggal_pencatatan": "2019-07-04",
+  "saham": 665000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "ITIC",
+  "nama": "Indonesian Tobacco Tbk.",
+  "tanggal_pencatatan": "2019-07-04",
+  "saham": 940720000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PAMG",
+  "nama": "Bima Sakti Pertiwi Tbk.",
+  "tanggal_pencatatan": "2019-07-05",
+  "saham": 3125000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IPTV",
+  "nama": "MNC Vision Networks Tbk.",
+  "tanggal_pencatatan": "2019-07-08",
+  "saham": 42197950841,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BLUE",
+  "nama": "Berkah Prima Perkasa Tbk.",
+  "tanggal_pencatatan": "2019-07-08",
+  "saham": 418000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "EAST",
+  "nama": "Eastparc Hotel Tbk.",
+  "tanggal_pencatatan": "2019-07-09",
+  "saham": 4126405336,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LIFE",
+  "nama": "MSIG Life Insurance Indonesia",
+  "tanggal_pencatatan": "2019-07-09",
+  "saham": 2100000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FUJI",
+  "nama": "Fuji Finance Indonesia Tbk.",
+  "tanggal_pencatatan": "2019-07-09",
+  "saham": 1300000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KOTA",
+  "nama": "DMS Propertindo Tbk.",
+  "tanggal_pencatatan": "2019-07-09",
+  "saham": 10546185701,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "INOV",
+  "nama": "Inocycle Technology Group Tbk.",
+  "tanggal_pencatatan": "2019-07-10",
+  "saham": 1808221900,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ARKA",
+  "nama": "Arkha Jayanti Persada Tbk.",
+  "tanggal_pencatatan": "2019-07-10",
+  "saham": 2000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMKL",
+  "nama": "Satyamitra Kemas Lestari Tbk.",
+  "tanggal_pencatatan": "2019-07-11",
+  "saham": 3418085290,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HDIT",
+  "nama": "Hensel Davest Indonesia Tbk.",
+  "tanggal_pencatatan": "2019-07-12",
+  "saham": 1524680000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KEEN",
+  "nama": "Kencana Energi Lestari Tbk.",
+  "tanggal_pencatatan": "2019-09-02",
+  "saham": 3666312500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BAPI",
+  "nama": "Bhakti Agung Propertindo Tbk.",
+  "tanggal_pencatatan": "2019-09-16",
+  "saham": 5591980103,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TFAS",
+  "nama": "Telefast Indonesia Tbk.",
+  "tanggal_pencatatan": "2019-09-17",
+  "saham": 1666666500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GGRP",
+  "nama": "Gunung Raja Paksi Tbk.",
+  "tanggal_pencatatan": "2019-09-19",
+  "saham": 12111376157,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "OPMS",
+  "nama": "Optima Prima Metal Sinergi Tbk",
+  "tanggal_pencatatan": "2019-09-23",
+  "saham": 1000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NZIA",
+  "nama": "Nusantara Almazia Tbk.",
+  "tanggal_pencatatan": "2019-09-25",
+  "saham": 2197540705,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SLIS",
+  "nama": "Gaya Abadi Sempurna Tbk.",
+  "tanggal_pencatatan": "2019-10-07",
+  "saham": 2463367996,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PURE",
+  "nama": "Trinitan Metals and Minerals T",
+  "tanggal_pencatatan": "2019-10-09",
+  "saham": 1375181505,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "IRRA",
+  "nama": "Itama Ranoraya Tbk.",
+  "tanggal_pencatatan": "2019-10-15",
+  "saham": 1600000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DMMX",
+  "nama": "Digital Mediatama Maxima Tbk.",
+  "tanggal_pencatatan": "2019-10-21",
+  "saham": 7692307700,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SINI",
+  "nama": "Singaraja Putra Tbk.",
+  "tanggal_pencatatan": "2019-11-08",
+  "saham": 1202500000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WOWS",
+  "nama": "Ginting Jaya Energi Tbk.",
+  "tanggal_pencatatan": "2019-11-08",
+  "saham": 2475720000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ESIP",
+  "nama": "Sinergi Inti Plastindo Tbk.",
+  "tanggal_pencatatan": "2019-11-14",
+  "saham": 1109953847,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TEBE",
+  "nama": "Dana Brata Luhur Tbk.",
+  "tanggal_pencatatan": "2019-11-18",
+  "saham": 1285000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KEJU",
+  "nama": "Mulia Boga Raya Tbk.",
+  "tanggal_pencatatan": "2019-11-25",
+  "saham": 5624999999,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PSGO",
+  "nama": "Palma Serasih Tbk.",
+  "tanggal_pencatatan": "2019-11-25",
+  "saham": 18850000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AGAR",
+  "nama": "Asia Sejahtera Mina Tbk.",
+  "tanggal_pencatatan": "2019-12-02",
+  "saham": 1000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IFSH",
+  "nama": "Ifishdeco Tbk.",
+  "tanggal_pencatatan": "2019-12-05",
+  "saham": 2125000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "REAL",
+  "nama": "Repower Asia Indonesia Tbk.",
+  "tanggal_pencatatan": "2019-12-06",
+  "saham": 6633610151,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IFII",
+  "nama": "Indonesia Fibreboard Industry",
+  "tanggal_pencatatan": "2019-12-10",
+  "saham": 9412000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PMJS",
+  "nama": "Putra Mandiri Jembar Tbk.",
+  "tanggal_pencatatan": "2019-12-18",
+  "saham": 13755600000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "UCID",
+  "nama": "Uni-Charm Indonesia Tbk.",
+  "tanggal_pencatatan": "2019-12-20",
+  "saham": 4156572300,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "GLVA",
+  "nama": "Galva Technologies Tbk.",
+  "tanggal_pencatatan": "2019-12-23",
+  "saham": 1500000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PGJO",
+  "nama": "Bahtera Bumi Raya Tbk.",
+  "tanggal_pencatatan": "2020-01-08",
+  "saham": 795859095,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "AMAR",
+  "nama": "Bank Amar Indonesia Tbk.",
+  "tanggal_pencatatan": "2020-01-09",
+  "saham": 18197283760,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CSRA",
+  "nama": "Cisadane Sawit Raya Tbk.",
+  "tanggal_pencatatan": "2020-01-09",
+  "saham": 2050000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INDO",
+  "nama": "Royalindo Investa Wijaya Tbk.",
+  "tanggal_pencatatan": "2020-01-13",
+  "saham": 4480741638,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AMOR",
+  "nama": "Ashmore Asset Management Indon",
+  "tanggal_pencatatan": "2020-01-14",
+  "saham": 2222222400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TRIN",
+  "nama": "Perintis Triniti Properti Tbk.",
+  "tanggal_pencatatan": "2020-01-15",
+  "saham": 4551457789,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DMND",
+  "nama": "Diamond Food Indonesia Tbk.",
+  "tanggal_pencatatan": "2020-01-22",
+  "saham": 9468359000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PURA",
+  "nama": "Putra Rajawali Kencana Tbk.",
+  "tanggal_pencatatan": "2020-01-29",
+  "saham": 6301930902,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PTPW",
+  "nama": "Pratama Widya Tbk.",
+  "tanggal_pencatatan": "2020-02-07",
+  "saham": 878187500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TAMA",
+  "nama": "Lancartama Sejati Tbk.",
+  "tanggal_pencatatan": "2020-02-10",
+  "saham": 1200000696,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "IKAN",
+  "nama": "Era Mandiri Cemerlang Tbk.",
+  "tanggal_pencatatan": "2020-02-12",
+  "saham": 833333000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AYLS",
+  "nama": "Arkayana Lestari Grup Tbk.",
+  "tanggal_pencatatan": "2020-02-12",
+  "saham": 853423236,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DADA",
+  "nama": "Diamond Citra Propertindo Tbk.",
+  "tanggal_pencatatan": "2020-02-14",
+  "saham": 7431530800,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ASPI",
+  "nama": "Andalan Sakti Primaindo Tbk.",
+  "tanggal_pencatatan": "2020-02-17",
+  "saham": 683810725,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ESTA",
+  "nama": "Esta Multi Usaha Tbk.",
+  "tanggal_pencatatan": "2020-03-09",
+  "saham": 2425354179,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BESS",
+  "nama": "Batulicin Nusantara Maritim Tb",
+  "tanggal_pencatatan": "2020-03-09",
+  "saham": 3440455528,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AMAN",
+  "nama": "Makmur Berkah Amanda Tbk.",
+  "tanggal_pencatatan": "2020-03-13",
+  "saham": 3873500000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CARE",
+  "nama": "Metro Healthcare Indonesia Tbk",
+  "tanggal_pencatatan": "2020-03-13",
+  "saham": 33250000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SAMF",
+  "nama": "Saraswanti Anugerah Makmur Tbk",
+  "tanggal_pencatatan": "2020-03-31",
+  "saham": 10250000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KBAG",
+  "nama": "Karya Bersama Anugerah Tbk.",
+  "tanggal_pencatatan": "2020-04-08",
+  "saham": 7150002603,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CBMF",
+  "nama": "Cahaya Bintang Medan Tbk.",
+  "tanggal_pencatatan": "2020-04-09",
+  "saham": 1875000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RONY",
+  "nama": "Aracord Nusantara Group Tbk.",
+  "tanggal_pencatatan": "2020-04-09",
+  "saham": 1250000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CSMI",
+  "nama": "Cipta Selera Murni Tbk.",
+  "tanggal_pencatatan": "2020-04-09",
+  "saham": 816061500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BBSS",
+  "nama": "Bumi Benowo Sukses Sejahtera T",
+  "tanggal_pencatatan": "2020-04-15",
+  "saham": 4800016020,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BHAT",
+  "nama": "Bhakti Multi Artha Tbk.",
+  "tanggal_pencatatan": "2020-04-15",
+  "saham": 5000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CASH",
+  "nama": "Cashlez Worldwide Indonesia Tb",
+  "tanggal_pencatatan": "2020-05-04",
+  "saham": 2427802216,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "TECH",
+  "nama": "Indosterling Technomedia Tbk.",
+  "tanggal_pencatatan": "2020-06-04",
+  "saham": 1256300000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "EPAC",
+  "nama": "Megalestari Epack Sentosaraya",
+  "tanggal_pencatatan": "2020-07-01",
+  "saham": 3303400000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "UANG",
+  "nama": "Pakuan Tbk.",
+  "tanggal_pencatatan": "2020-07-06",
+  "saham": 1210000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PGUN",
+  "nama": "Pradiksi Gunatama Tbk.",
+  "tanggal_pencatatan": "2020-07-07",
+  "saham": 5737848882,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SOFA",
+  "nama": "Solusi Environment Asia Tbk.",
+  "tanggal_pencatatan": "2020-07-07",
+  "saham": 1653574499,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "PPGL",
+  "nama": "Prima Globalindo Logistik Tbk.",
+  "tanggal_pencatatan": "2020-07-20",
+  "saham": 771178020,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "SGER",
+  "nama": "Sumber Global Energy Tbk.",
+  "tanggal_pencatatan": "2020-08-10",
+  "saham": 15586909438,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "TRJA",
+  "nama": "Transkon Jaya Tbk.",
+  "tanggal_pencatatan": "2020-08-27",
+  "saham": 1510200000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PNGO",
+  "nama": "AEP Pinago Plantations Tbk.",
+  "tanggal_pencatatan": "2020-08-31",
+  "saham": 781250000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SCNP",
+  "nama": "Selaras Citra Nusantara Perkas",
+  "tanggal_pencatatan": "2020-09-07",
+  "saham": 2500000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BBSI",
+  "nama": "Krom Bank Indonesia Tbk.",
+  "tanggal_pencatatan": "2020-09-07",
+  "saham": 3637976068,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KMDS",
+  "nama": "Kurniamitra Duta Sentosa Tbk.",
+  "tanggal_pencatatan": "2020-09-07",
+  "saham": 800000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PURI",
+  "nama": "Puri Global Sukses Tbk.",
+  "tanggal_pencatatan": "2020-09-08",
+  "saham": 1000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SOHO",
+  "nama": "Soho Global Health Tbk.",
+  "tanggal_pencatatan": "2020-09-08",
+  "saham": 12691682390,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HOMI",
+  "nama": "Grand House Mulia Tbk.",
+  "tanggal_pencatatan": "2020-09-10",
+  "saham": 1575000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ROCK",
+  "nama": "Rockfields Properti Indonesia",
+  "tanggal_pencatatan": "2020-09-10",
+  "saham": 1435185100,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ENZO",
+  "nama": "Morenzo Abadi Perkasa Tbk.",
+  "tanggal_pencatatan": "2020-09-14",
+  "saham": 2162547122,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PLAN",
+  "nama": "Planet Properindo Jaya Tbk.",
+  "tanggal_pencatatan": "2020-09-15",
+  "saham": 896709596,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "PTDU",
+  "nama": "Djasa Ubersakti Tbk.",
+  "tanggal_pencatatan": "2020-12-08",
+  "saham": 1500000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "ATAP",
+  "nama": "Trimitra Prawara Goldland Tbk.",
+  "tanggal_pencatatan": "2020-12-11",
+  "saham": 1250000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "VICI",
+  "nama": "Victoria Care Indonesia Tbk.",
+  "tanggal_pencatatan": "2020-12-17",
+  "saham": 6708000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PMMP",
+  "nama": "Panca Mitra Multiperdana Tbk.",
+  "tanggal_pencatatan": "2020-12-18",
+  "saham": 2588300000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "WIFI",
+  "nama": "Solusi Sinergi Digital Tbk.",
+  "tanggal_pencatatan": "2020-12-30",
+  "saham": 5308549015,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FAPA",
+  "nama": "FAP Agri Tbk.",
+  "tanggal_pencatatan": "2021-01-04",
+  "saham": 3629411800,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DCII",
+  "nama": "DCI Indonesia Tbk.",
+  "tanggal_pencatatan": "2021-01-06",
+  "saham": 2383745900,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KETR",
+  "nama": "Ketrosden Triasmitra Tbk.",
+  "tanggal_pencatatan": "2021-01-11",
+  "saham": 2841262838,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DGNS",
+  "nama": "Diagnos Laboratorium Utama Tbk",
+  "tanggal_pencatatan": "2021-01-15",
+  "saham": 1375000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "UFOE",
+  "nama": "Damai Sejahtera Abadi Tbk.",
+  "tanggal_pencatatan": "2021-02-01",
+  "saham": 2898261693,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BANK",
+  "nama": "Bank Aladin Syariah Tbk.",
+  "tanggal_pencatatan": "2021-02-01",
+  "saham": 14793174908,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WMUU",
+  "nama": "Widodo Makmur Unggas Tbk.",
+  "tanggal_pencatatan": "2021-02-02",
+  "saham": 12941176500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "EDGE",
+  "nama": "Indointernet Tbk.",
+  "tanggal_pencatatan": "2021-02-08",
+  "saham": 2020250000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "UNIQ",
+  "nama": "Ulima Nitra Tbk.",
+  "tanggal_pencatatan": "2021-03-08",
+  "saham": 3138983000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BEBS",
+  "nama": "Berkah Beton Sadaya Tbk.",
+  "tanggal_pencatatan": "2021-03-10",
+  "saham": 45000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SNLK",
+  "nama": "Sunter Lakeside Hotel Tbk.",
+  "tanggal_pencatatan": "2021-03-29",
+  "saham": 450000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ZYRX",
+  "nama": "Zyrexindo Mandiri Buana Tbk.",
+  "tanggal_pencatatan": "2021-03-30",
+  "saham": 1333334556,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LFLO",
+  "nama": "Imago Mulia Persada Tbk.",
+  "tanggal_pencatatan": "2021-04-07",
+  "saham": 1307734937,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "FIMP",
+  "nama": "Fimperkasa Utama Tbk.",
+  "tanggal_pencatatan": "2021-04-09",
+  "saham": 400000975,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "TAPG",
+  "nama": "Triputra Agro Persada Tbk.",
+  "tanggal_pencatatan": "2021-04-12",
+  "saham": 19852540000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "NPGF",
+  "nama": "Nusa Palapa Gemilang Tbk.",
+  "tanggal_pencatatan": "2021-04-14",
+  "saham": 3240235840,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LUCY",
+  "nama": "Lima Dua Lima Tiga Tbk.",
+  "tanggal_pencatatan": "2021-05-05",
+  "saham": 1514773893,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "ADCP",
+  "nama": "Adhi Commuter Properti Tbk.",
+  "tanggal_pencatatan": "2021-05-21",
+  "saham": 22222222200,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HOPE",
+  "nama": "Harapan Duta Pertiwi Tbk.",
+  "tanggal_pencatatan": "2021-05-24",
+  "saham": 2130360203,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MGLV",
+  "nama": "NexAI Digital Infrastruktur Tb",
+  "tanggal_pencatatan": "2021-06-08",
+  "saham": 2089580980,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "TRUE",
+  "nama": "Triniti Dinamik Tbk.",
+  "tanggal_pencatatan": "2021-06-10",
+  "saham": 7571107860,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LABA",
+  "nama": "Green Power Group Tbk.",
+  "tanggal_pencatatan": "2021-06-10",
+  "saham": 1103402553,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ARCI",
+  "nama": "Archi Indonesia Tbk.",
+  "tanggal_pencatatan": "2021-06-28",
+  "saham": 25235000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IPAC",
+  "nama": "Era Graharealty Tbk.",
+  "tanggal_pencatatan": "2021-06-30",
+  "saham": 949868500,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "MASB",
+  "nama": "Bank Multiarta Sentosa Tbk.",
+  "tanggal_pencatatan": "2021-06-30",
+  "saham": 1387737233,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BMHS",
+  "nama": "Bundamedik Tbk.",
+  "tanggal_pencatatan": "2021-07-06",
+  "saham": 8603416176,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "FLMC",
+  "nama": "Falmaco Nonwoven Industri Tbk.",
+  "tanggal_pencatatan": "2021-07-08",
+  "saham": 781250000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "NICL",
+  "nama": "PAM Mineral Tbk.",
+  "tanggal_pencatatan": "2021-07-09",
+  "saham": 10635644907,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "UVCR",
+  "nama": "Trimegah Karya Pratama Tbk.",
+  "tanggal_pencatatan": "2021-07-27",
+  "saham": 2000144838,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BUKA",
+  "nama": "Bukalapak.com Tbk.",
+  "tanggal_pencatatan": "2021-08-06",
+  "saham": 103167090767,
+  "papan_catat": "EKONOMI_BARU"
+ },
+ {
+  "kode": "HAIS",
+  "nama": "Hasnur Internasional Shipping",
+  "tanggal_pencatatan": "2021-09-01",
+  "saham": 2626250000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "OILS",
+  "nama": "Indo Oil Perkasa Tbk.",
+  "tanggal_pencatatan": "2021-09-06",
+  "saham": 454056563,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GPSO",
+  "nama": "Geoprima Solusi Tbk.",
+  "tanggal_pencatatan": "2021-09-06",
+  "saham": 733415103,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MCOL",
+  "nama": "Prima Andalan Mandiri Tbk.",
+  "tanggal_pencatatan": "2021-09-07",
+  "saham": 3555560000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "RSGK",
+  "nama": "Kedoya Adyaraya Tbk.",
+  "tanggal_pencatatan": "2021-09-08",
+  "saham": 929675000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RUNS",
+  "nama": "Global Sukses Solusi Tbk.",
+  "tanggal_pencatatan": "2021-09-08",
+  "saham": 983557875,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "SBMA",
+  "nama": "Surya Biru Murni Acetylene Tbk",
+  "tanggal_pencatatan": "2021-09-08",
+  "saham": 929926282,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CMNT",
+  "nama": "Cemindo Gemilang Tbk.",
+  "tanggal_pencatatan": "2021-09-08",
+  "saham": 17125504000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GTSI",
+  "nama": "GTS Internasional Tbk.",
+  "tanggal_pencatatan": "2021-09-08",
+  "saham": 15819142767,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "IDEA",
+  "nama": "Idea Indonesia Akademi Tbk.",
+  "tanggal_pencatatan": "2021-09-09",
+  "saham": 1062437500,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "KUAS",
+  "nama": "Ace Oldfields Tbk.",
+  "tanggal_pencatatan": "2021-10-25",
+  "saham": 1292808150,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BOBA",
+  "nama": "Formosa Ingredient Factory Tbk",
+  "tanggal_pencatatan": "2021-11-01",
+  "saham": 1155750000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MTEL",
+  "nama": "Dayamitra Telekomunikasi Tbk.",
+  "tanggal_pencatatan": "2021-11-22",
+  "saham": 83559677444,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DEPO",
+  "nama": "Caturkarda Depo Bangunan Tbk.",
+  "tanggal_pencatatan": "2021-11-25",
+  "saham": 6790000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BINO",
+  "nama": "Perma Plasindo Tbk.",
+  "tanggal_pencatatan": "2021-11-25",
+  "saham": 2275316111,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CMRY",
+  "nama": "Cisarua Mountain Dairy Tbk.",
+  "tanggal_pencatatan": "2021-12-06",
+  "saham": 7934683000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "WGSH",
+  "nama": "Wira Global Solusi Tbk.",
+  "tanggal_pencatatan": "2021-12-06",
+  "saham": 2085000000,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "TAYS",
+  "nama": "Jaya Swarasa Agung Tbk.",
+  "tanggal_pencatatan": "2021-12-06",
+  "saham": 1098920000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WMPP",
+  "nama": "Widodo Makmur Perkasa Tbk.",
+  "tanggal_pencatatan": "2021-12-06",
+  "saham": 29419000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "RMKE",
+  "nama": "RMK Energy Tbk.",
+  "tanggal_pencatatan": "2021-12-07",
+  "saham": 21875000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "OBMD",
+  "nama": "OBM Drilchem Tbk.",
+  "tanggal_pencatatan": "2021-12-08",
+  "saham": 805992931,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AVIA",
+  "nama": "Avia Avian Tbk.",
+  "tanggal_pencatatan": "2021-12-08",
+  "saham": 61953555600,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "IPPE",
+  "nama": "Indo Pureco Pratama Tbk.",
+  "tanggal_pencatatan": "2021-12-09",
+  "saham": 4600000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NASI",
+  "nama": "Wahana Inti Makmur Tbk.",
+  "tanggal_pencatatan": "2021-12-13",
+  "saham": 807400000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BSML",
+  "nama": "Bintang Samudera Mandiri Lines",
+  "tanggal_pencatatan": "2021-12-16",
+  "saham": 1850225000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DRMA",
+  "nama": "Dharma Polimetal Tbk.",
+  "tanggal_pencatatan": "2021-12-20",
+  "saham": 4705882300,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ADMR",
+  "nama": "Alamtri Minerals Indonesia Tbk",
+  "tanggal_pencatatan": "2022-01-03",
+  "saham": 40882331500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "SEMA",
+  "nama": "Semacom Integrated Tbk.",
+  "tanggal_pencatatan": "2022-01-10",
+  "saham": 1347258842,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ASLC",
+  "nama": "Autopedia Sukses Lestari Tbk.",
+  "tanggal_pencatatan": "2022-01-25",
+  "saham": 12746354780,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NETV",
+  "nama": "MDTV Media Technologies Tbk.",
+  "tanggal_pencatatan": "2022-01-26",
+  "saham": 41360517722,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BAUT",
+  "nama": "Mitra Angkasa Sejahtera Tbk.",
+  "tanggal_pencatatan": "2022-01-28",
+  "saham": 4800182969,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ENAK",
+  "nama": "Champ Resto Indonesia Tbk.",
+  "tanggal_pencatatan": "2022-02-08",
+  "saham": 2166666800,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NTBK",
+  "nama": "Nusatama Berkah Tbk.",
+  "tanggal_pencatatan": "2022-02-09",
+  "saham": 2700064877,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMKM",
+  "nama": "Sumber Mas Konstruksi Tbk.",
+  "tanggal_pencatatan": "2022-03-09",
+  "saham": 1253000000,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "STAA",
+  "nama": "Sumber Tani Agung Resources Tb",
+  "tanggal_pencatatan": "2022-03-10",
+  "saham": 10903372600,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "NANO",
+  "nama": "Nanotech Indonesia Global Tbk.",
+  "tanggal_pencatatan": "2022-03-10",
+  "saham": 4285440269,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "BIKE",
+  "nama": "Bhineka Inovasi Ketahanan Ener",
+  "tanggal_pencatatan": "2022-03-21",
+  "saham": 1293916404,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WIRG",
+  "nama": "WIR ASIA Tbk.",
+  "tanggal_pencatatan": "2022-04-04",
+  "saham": 11938622394,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SICO",
+  "nama": "Sigma Energy Compressindo Tbk.",
+  "tanggal_pencatatan": "2022-04-08",
+  "saham": 910077764,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GOTO",
+  "nama": "GoTo Gojek Tokopedia Tbk.",
+  "tanggal_pencatatan": "2022-04-11",
+  "saham": 1140573267220,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TLDN",
+  "nama": "Teladan Prima Agro Tbk.",
+  "tanggal_pencatatan": "2022-04-12",
+  "saham": 12946530200,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MTMH",
+  "nama": "Murni Sadar Tbk.",
+  "tanggal_pencatatan": "2022-04-20",
+  "saham": 2068526950,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "WINR",
+  "nama": "Winner Nusantara Jaya Tbk.",
+  "tanggal_pencatatan": "2022-04-25",
+  "saham": 5235316030,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "IBOS",
+  "nama": "Indo Boga Sukses Tbk.",
+  "tanggal_pencatatan": "2022-04-25",
+  "saham": 8065789529,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "OLIV",
+  "nama": "Atlas Nexus Group Tbk.",
+  "tanggal_pencatatan": "2022-05-17",
+  "saham": 1900073314,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "ASHA",
+  "nama": "Cilacap Samudera Fishing Indus",
+  "tanggal_pencatatan": "2022-05-27",
+  "saham": 5000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SWID",
+  "nama": "Saraswanti Indoland Developmen",
+  "tanggal_pencatatan": "2022-07-07",
+  "saham": 5385019201,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TRGU",
+  "nama": "Cerestar Indonesia Tbk.",
+  "tanggal_pencatatan": "2022-07-08",
+  "saham": 7945412700,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ARKO",
+  "nama": "Arkora Hydro Tbk.",
+  "tanggal_pencatatan": "2022-07-08",
+  "saham": 2928495000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CHEM",
+  "nama": "Chemstar Indonesia Tbk.",
+  "tanggal_pencatatan": "2022-07-08",
+  "saham": 1700014594,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DEWI",
+  "nama": "Dewi Shri Farmindo Tbk.",
+  "tanggal_pencatatan": "2022-07-18",
+  "saham": 2000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AXIO",
+  "nama": "Tera Data Indonusa Tbk.",
+  "tanggal_pencatatan": "2022-07-20",
+  "saham": 5840126500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KRYA",
+  "nama": "Bangun Karya Perkasa Jaya Tbk.",
+  "tanggal_pencatatan": "2022-07-25",
+  "saham": 1663943474,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HATM",
+  "nama": "Habco Trans Maritima Tbk.",
+  "tanggal_pencatatan": "2022-07-26",
+  "saham": 9320000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "RCCC",
+  "nama": "Utama Radar Cahaya Tbk.",
+  "tanggal_pencatatan": "2022-08-02",
+  "saham": 787500000,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "GULA",
+  "nama": "Aman Agrindo Tbk.",
+  "tanggal_pencatatan": "2022-08-03",
+  "saham": 1070362500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "JARR",
+  "nama": "Jhonlin Agro Raya Tbk.",
+  "tanggal_pencatatan": "2022-08-04",
+  "saham": 9230665050,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "AMMS",
+  "nama": "Agung Menjangan Mas Tbk.",
+  "tanggal_pencatatan": "2022-08-04",
+  "saham": 1235296802,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "RAFI",
+  "nama": "Sari Kreasi Boga Tbk.",
+  "tanggal_pencatatan": "2022-08-05",
+  "saham": 3128140475,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KKES",
+  "nama": "Kusuma Kemindo Sentosa Tbk.",
+  "tanggal_pencatatan": "2022-08-08",
+  "saham": 1500000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ELPI",
+  "nama": "Pelayaran Nasional Ekalya Purn",
+  "tanggal_pencatatan": "2022-08-08",
+  "saham": 9524420000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "EURO",
+  "nama": "Estee Gold Feet Tbk.",
+  "tanggal_pencatatan": "2022-08-08",
+  "saham": 2548826428,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "KLIN",
+  "nama": "Klinko Karya Imaji Tbk.",
+  "tanggal_pencatatan": "2022-08-09",
+  "saham": 1307530330,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "TOOL",
+  "nama": "Rohartindo Nusantara Luas Tbk.",
+  "tanggal_pencatatan": "2022-08-09",
+  "saham": 2050020320,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BUAH",
+  "nama": "Segar Kumala Indonesia Tbk.",
+  "tanggal_pencatatan": "2022-08-09",
+  "saham": 2000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CRAB",
+  "nama": "Toba Surimi Industries Tbk.",
+  "tanggal_pencatatan": "2022-08-10",
+  "saham": 1950000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MEDS",
+  "nama": "Hetzer Medical Indonesia Tbk.",
+  "tanggal_pencatatan": "2022-08-10",
+  "saham": 1562500000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "COAL",
+  "nama": "Black Diamond Resources Tbk.",
+  "tanggal_pencatatan": "2022-09-07",
+  "saham": 6250000000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "PRAY",
+  "nama": "Famon Awal Bros Sedaya Tbk.",
+  "tanggal_pencatatan": "2022-11-08",
+  "saham": 13959422300,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CBUT",
+  "nama": "Citra Borneo Utama Tbk.",
+  "tanggal_pencatatan": "2022-11-08",
+  "saham": 3125000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BELI",
+  "nama": "Global Digital Niaga Tbk.",
+  "tanggal_pencatatan": "2022-11-08",
+  "saham": 137218985689,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MKTR",
+  "nama": "Menthobi Karyatama Raya Tbk.",
+  "tanggal_pencatatan": "2022-11-08",
+  "saham": 12060428584,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "OMED",
+  "nama": "Jayamas Medica Industri Tbk.",
+  "tanggal_pencatatan": "2022-11-08",
+  "saham": 27058850000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BSBK",
+  "nama": "Wulandari Bangun Laksana Tbk.",
+  "tanggal_pencatatan": "2022-11-08",
+  "saham": 25091882375,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PDPP",
+  "nama": "Primadaya Plastisindo Tbk.",
+  "tanggal_pencatatan": "2022-11-09",
+  "saham": 3061341438,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KDTN",
+  "nama": "Puri Sentul Permai Tbk.",
+  "tanggal_pencatatan": "2022-11-09",
+  "saham": 1250023298,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ZATA",
+  "nama": "Bersama Zatta Jaya Tbk.",
+  "tanggal_pencatatan": "2022-11-10",
+  "saham": 8496000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NINE",
+  "nama": "Techno9 Indonesia Tbk.",
+  "tanggal_pencatatan": "2022-12-05",
+  "saham": 2157000000,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "MMIX",
+  "nama": "Multi Medika Internasional Tbk",
+  "tanggal_pencatatan": "2022-12-06",
+  "saham": 4800425380,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PADA",
+  "nama": "Personel Alih Daya Tbk.",
+  "tanggal_pencatatan": "2022-12-08",
+  "saham": 3150000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ISAP",
+  "nama": "Isra Presisi Indonesia Tbk.",
+  "tanggal_pencatatan": "2022-12-09",
+  "saham": 4020383879,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "VTNY",
+  "nama": "Venteny Fortuna International",
+  "tanggal_pencatatan": "2022-12-15",
+  "saham": 6265193445,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SOUL",
+  "nama": "Mitra Tirta Buwana Tbk.",
+  "tanggal_pencatatan": "2023-01-06",
+  "saham": 1082526223,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "ELIT",
+  "nama": "Data Sinergitama Jaya Tbk.",
+  "tanggal_pencatatan": "2023-01-06",
+  "saham": 2031643057,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BEER",
+  "nama": "Jobubu Jarum Minahasa Tbk.",
+  "tanggal_pencatatan": "2023-01-06",
+  "saham": 4000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CBPE",
+  "nama": "Citra Buana Prasida Tbk.",
+  "tanggal_pencatatan": "2023-01-06",
+  "saham": 1356250000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SUNI",
+  "nama": "Sunindo Pratama Tbk.",
+  "tanggal_pencatatan": "2023-01-09",
+  "saham": 2500000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CBRE",
+  "nama": "Cakra Buana Resources Energi T",
+  "tanggal_pencatatan": "2023-01-09",
+  "saham": 4538067441,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "WINE",
+  "nama": "Hatten Bali Tbk.",
+  "tanggal_pencatatan": "2023-01-10",
+  "saham": 2710000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BMBL",
+  "nama": "Lavender Bina Cendikia Tbk.",
+  "tanggal_pencatatan": "2023-01-11",
+  "saham": 1030080995,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "PEVE",
+  "nama": "Penta Valent Tbk.",
+  "tanggal_pencatatan": "2023-01-24",
+  "saham": 1765625000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LAJU",
+  "nama": "Jasa Berdikari Logistics Tbk.",
+  "tanggal_pencatatan": "2023-01-27",
+  "saham": 2149942974,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FWCT",
+  "nama": "Wijaya Cahaya Timber Tbk.",
+  "tanggal_pencatatan": "2023-02-01",
+  "saham": 1963000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NAYZ",
+  "nama": "Hassana Boga Sejahtera Tbk.",
+  "tanggal_pencatatan": "2023-02-06",
+  "saham": 2550011472,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "IRSX",
+  "nama": "Folago Global Nusantara Tbk.",
+  "tanggal_pencatatan": "2023-02-07",
+  "saham": 6195047377,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PACK",
+  "nama": "Abadi Nusantara Hijau Investam",
+  "tanggal_pencatatan": "2023-02-08",
+  "saham": 34142088471,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "VAST",
+  "nama": "Vastland Indonesia Tbk.",
+  "tanggal_pencatatan": "2023-02-08",
+  "saham": 3055737049,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CHIP",
+  "nama": "Pelita Teknologi Global Tbk.",
+  "tanggal_pencatatan": "2023-02-08",
+  "saham": 806000000,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "HALO",
+  "nama": "Haloni Jane Tbk.",
+  "tanggal_pencatatan": "2023-02-08",
+  "saham": 6078729117,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KING",
+  "nama": "Hoffmen Cleanindo Tbk.",
+  "tanggal_pencatatan": "2023-02-16",
+  "saham": 2602852170,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "PGEO",
+  "nama": "Pertamina Geothermal Energy Tb",
+  "tanggal_pencatatan": "2023-02-24",
+  "saham": 41954253581,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "FUTR",
+  "nama": "Futura Energi Global Tbk.",
+  "tanggal_pencatatan": "2023-02-27",
+  "saham": 6635551959,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HILL",
+  "nama": "Hillcon Tbk.",
+  "tanggal_pencatatan": "2023-03-01",
+  "saham": 14741500000,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "BDKR",
+  "nama": "Berdikari Pondasi Perkasa Tbk.",
+  "tanggal_pencatatan": "2023-03-03",
+  "saham": 4725101522,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PTMP",
+  "nama": "Mitra Pack Tbk.",
+  "tanggal_pencatatan": "2023-03-06",
+  "saham": 3169200000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SAGE",
+  "nama": "Saptausaha Gemilangindah Tbk.",
+  "tanggal_pencatatan": "2023-03-08",
+  "saham": 8033527260,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TRON",
+  "nama": "Teknologi Karya Digital Nusa T",
+  "tanggal_pencatatan": "2023-03-08",
+  "saham": 2951328448,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CUAN",
+  "nama": "Petrindo Jaya Kreasi Tbk.",
+  "tanggal_pencatatan": "2023-03-08",
+  "saham": 112418900000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "NSSS",
+  "nama": "Nusantara Sawit Sejahtera Tbk.",
+  "tanggal_pencatatan": "2023-03-10",
+  "saham": 23801568645,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GTRA",
+  "nama": "Grahaprima Suksesmandiri Tbk.",
+  "tanggal_pencatatan": "2023-03-30",
+  "saham": 1894375000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HAJJ",
+  "nama": "Arsy Buana Travelindo Tbk.",
+  "tanggal_pencatatan": "2023-04-05",
+  "saham": 2468527572,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "PIPA",
+  "nama": "Oxala Energy International Tbk",
+  "tanggal_pencatatan": "2023-04-10",
+  "saham": 3426097190,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NCKL",
+  "nama": "Trimegah Bangun Persada Tbk.",
+  "tanggal_pencatatan": "2023-04-12",
+  "saham": 63098600000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MENN",
+  "nama": "Menn Teknologi Indonesia Tbk.",
+  "tanggal_pencatatan": "2023-04-18",
+  "saham": 1434052006,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "AWAN",
+  "nama": "Era Digital Media Tbk.",
+  "tanggal_pencatatan": "2023-04-18",
+  "saham": 3435000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MBMA",
+  "nama": "Merdeka Battery Materials Tbk.",
+  "tanggal_pencatatan": "2023-04-18",
+  "saham": 107995419900,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "RAAM",
+  "nama": "Tripar Multivision Plus Tbk.",
+  "tanggal_pencatatan": "2023-05-08",
+  "saham": 6813620000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DOOH",
+  "nama": "Era Media Sejahtera Tbk.",
+  "tanggal_pencatatan": "2023-05-08",
+  "saham": 7738891036,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "JATI",
+  "nama": "Informasi Teknologi Indonesia",
+  "tanggal_pencatatan": "2023-05-08",
+  "saham": 3262520106,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TYRE",
+  "nama": "King Tire Indonesia Tbk.",
+  "tanggal_pencatatan": "2023-05-08",
+  "saham": 3480581727,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MPXL",
+  "nama": "MPX Logistics International Tb",
+  "tanggal_pencatatan": "2023-05-09",
+  "saham": 2000014587,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMIL",
+  "nama": "Sarana Mitra Luas Tbk.",
+  "tanggal_pencatatan": "2023-05-12",
+  "saham": 8751668239,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KLAS",
+  "nama": "Pelayaran Kurnia Lautan Semest",
+  "tanggal_pencatatan": "2023-06-12",
+  "saham": 3644415975,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MAXI",
+  "nama": "Maxindo Karya Anugerah Tbk.",
+  "tanggal_pencatatan": "2023-06-12",
+  "saham": 9610099981,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "VKTR",
+  "nama": "VKTR Teknologi Mobilitas Tbk.",
+  "tanggal_pencatatan": "2023-06-19",
+  "saham": 58750000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RELF",
+  "nama": "Graha Mitra Asia Tbk.",
+  "tanggal_pencatatan": "2023-06-22",
+  "saham": 5727832195,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "AMMN",
+  "nama": "Amman Mineral Internasional Tb",
+  "tanggal_pencatatan": "2023-07-07",
+  "saham": 72518217656,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CRSN",
+  "nama": "Carsurin Tbk.",
+  "tanggal_pencatatan": "2023-07-10",
+  "saham": 2892000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GRPM",
+  "nama": "Graha Prima Mentari Tbk.",
+  "tanggal_pencatatan": "2023-07-10",
+  "saham": 1571666469,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "WIDI",
+  "nama": "Widiant Jaya Krenindo Tbk.",
+  "tanggal_pencatatan": "2023-07-10",
+  "saham": 1600031683,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "TGUK",
+  "nama": "Platinum Wahab Nusantara Tbk.",
+  "tanggal_pencatatan": "2023-07-10",
+  "saham": 3571451815,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "INET",
+  "nama": "Sinergi Inti Andalan Prima Tbk",
+  "tanggal_pencatatan": "2023-07-24",
+  "saham": 22378499865,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MAHA",
+  "nama": "Mandiri Herindo Adiperkasa Tbk",
+  "tanggal_pencatatan": "2023-07-25",
+  "saham": 16666000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "RMKO",
+  "nama": "Royaltama Mulia Kontraktorindo",
+  "tanggal_pencatatan": "2023-07-31",
+  "saham": 1576720595,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CNMA",
+  "nama": "Nusantara Sejahtera Raya Tbk.",
+  "tanggal_pencatatan": "2023-08-02",
+  "saham": 83345000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "FOLK",
+  "nama": "Multi Garam Utama Tbk.",
+  "tanggal_pencatatan": "2023-08-07",
+  "saham": 4091357544,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HBAT",
+  "nama": "Minahasa Membangun Hebat Tbk.",
+  "tanggal_pencatatan": "2023-08-07",
+  "saham": 1040740800,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "GRIA",
+  "nama": "Ingria Pratama Capitalindo Tbk",
+  "tanggal_pencatatan": "2023-08-08",
+  "saham": 7375720674,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PPRI",
+  "nama": "Paperocks Indonesia Tbk.",
+  "tanggal_pencatatan": "2023-08-08",
+  "saham": 1075027288,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ERAL",
+  "nama": "Sinar Eka Selaras Tbk.",
+  "tanggal_pencatatan": "2023-08-08",
+  "saham": 5187500000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CYBR",
+  "nama": "ITSEC Asia Tbk.",
+  "tanggal_pencatatan": "2023-08-08",
+  "saham": 13488413844,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MUTU",
+  "nama": "Mutuagung Lestari Tbk.",
+  "tanggal_pencatatan": "2023-08-09",
+  "saham": 3452228885,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LMAX",
+  "nama": "Lupromax Pelumas Indonesia Tbk",
+  "tanggal_pencatatan": "2023-08-09",
+  "saham": 650008775,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "HUMI",
+  "nama": "Humpuss Maritim Internasional",
+  "tanggal_pencatatan": "2023-08-09",
+  "saham": 18063771579,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MSIE",
+  "nama": "Multisarana Intan Eduka Tbk.",
+  "tanggal_pencatatan": "2023-08-10",
+  "saham": 1460007754,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "RSCH",
+  "nama": "Charlie Hospital Semarang Tbk.",
+  "tanggal_pencatatan": "2023-08-28",
+  "saham": 2650000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BABY",
+  "nama": "Multitrend Indo Tbk.",
+  "tanggal_pencatatan": "2023-09-07",
+  "saham": 2854826582,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AEGS",
+  "nama": "Anugerah Spareparts Sejahtera",
+  "tanggal_pencatatan": "2023-09-11",
+  "saham": 1006080721,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "IOTF",
+  "nama": "Sumber Sinergi Makmur Tbk.",
+  "tanggal_pencatatan": "2023-10-06",
+  "saham": 5290298067,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KOCI",
+  "nama": "Kokoh Exa Nusantara Tbk.",
+  "tanggal_pencatatan": "2023-10-07",
+  "saham": 4470679376,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PTPS",
+  "nama": "Pulau Subur Tbk.",
+  "tanggal_pencatatan": "2023-10-09",
+  "saham": 2167514856,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BREN",
+  "nama": "Barito Renewables Energy Tbk.",
+  "tanggal_pencatatan": "2023-10-09",
+  "saham": 133786220000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "STRK",
+  "nama": "Lovina Beach Brewery Tbk.",
+  "tanggal_pencatatan": "2023-10-10",
+  "saham": 10721835562,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KOKA",
+  "nama": "Koka Indonesia Tbk.",
+  "tanggal_pencatatan": "2023-10-11",
+  "saham": 2861333000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LOPI",
+  "nama": "Logisticsplus International Tb",
+  "tanggal_pencatatan": "2023-10-11",
+  "saham": 1100011289,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "UDNG",
+  "nama": "Agro Bahari Nusantara Tbk.",
+  "tanggal_pencatatan": "2023-10-31",
+  "saham": 1750040072,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "RGAS",
+  "nama": "Kian Santang Muliatama Tbk.",
+  "tanggal_pencatatan": "2023-11-08",
+  "saham": 1459234110,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MSTI",
+  "nama": "Mastersystem Infotama Tbk.",
+  "tanggal_pencatatan": "2023-11-08",
+  "saham": 3139416200,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "IKPM",
+  "nama": "Ikapharmindo Putramas Tbk.",
+  "tanggal_pencatatan": "2023-11-08",
+  "saham": 1684662500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AYAM",
+  "nama": "Janu Putra Sejahtera Tbk.",
+  "tanggal_pencatatan": "2023-11-30",
+  "saham": 4000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SURI",
+  "nama": "Maja Agung Latexindo Tbk.",
+  "tanggal_pencatatan": "2023-12-07",
+  "saham": 6334375000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ASLI",
+  "nama": "Asri Karya Lestari Tbk.",
+  "tanggal_pencatatan": "2024-01-05",
+  "saham": 6250000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CGAS",
+  "nama": "Citra Nusantara Gemilang Tbk.",
+  "tanggal_pencatatan": "2024-01-08",
+  "saham": 1771499039,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NICE",
+  "nama": "Adhi Kartiko Pratama Tbk.",
+  "tanggal_pencatatan": "2024-01-09",
+  "saham": 6082020000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MSJA",
+  "nama": "Multi Spunindo Jaya Tbk.",
+  "tanggal_pencatatan": "2024-01-10",
+  "saham": 5882352900,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMLE",
+  "nama": "Sinergi Multi Lestarindo Tbk.",
+  "tanggal_pencatatan": "2024-01-10",
+  "saham": 2328153048,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ACRO",
+  "nama": "Samcro Hyosung Adilestari Tbk.",
+  "tanggal_pencatatan": "2024-01-11",
+  "saham": 3469345537,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MANG",
+  "nama": "Manggung Polahraya Tbk.",
+  "tanggal_pencatatan": "2024-01-11",
+  "saham": 3812608835,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "GRPH",
+  "nama": "Griptha Putra Persada Tbk.",
+  "tanggal_pencatatan": "2024-01-17",
+  "saham": 1000000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SMGA",
+  "nama": "Sumber Mineral Global Abadi Tb",
+  "tanggal_pencatatan": "2024-01-30",
+  "saham": 8750000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "UNTD",
+  "nama": "Terang Dunia Internusa Tbk.",
+  "tanggal_pencatatan": "2024-02-07",
+  "saham": 6666666700,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "TOSK",
+  "nama": "Topindo Solusi Komunika Tbk.",
+  "tanggal_pencatatan": "2024-02-07",
+  "saham": 4375277300,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MPIX",
+  "nama": "Mitra Pedagang Indonesia Tbk.",
+  "tanggal_pencatatan": "2024-02-07",
+  "saham": 1562574308,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ALII",
+  "nama": "Ancara Logistics Indonesia Tbk",
+  "tanggal_pencatatan": "2024-02-07",
+  "saham": 15825800000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MKAP",
+  "nama": "Multikarya Asia Pasifik Raya T",
+  "tanggal_pencatatan": "2024-02-12",
+  "saham": 3250000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MEJA",
+  "nama": "Harta Djaya Karya Tbk.",
+  "tanggal_pencatatan": "2024-02-12",
+  "saham": 2608081058,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "LIVE",
+  "nama": "Homeco Victoria Makmur Tbk.",
+  "tanggal_pencatatan": "2024-02-12",
+  "saham": 4593005014,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HYGN",
+  "nama": "Ecocare Indo Pasifik Tbk.",
+  "tanggal_pencatatan": "2024-02-13",
+  "saham": 2525000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BAIK",
+  "nama": "Bersama Mencapai Puncak Tbk.",
+  "tanggal_pencatatan": "2024-02-15",
+  "saham": 1127497572,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "VISI",
+  "nama": "Satu Visi Putra Tbk.",
+  "tanggal_pencatatan": "2024-02-27",
+  "saham": 3195724400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AREA",
+  "nama": "Dunia Virtual Online Tbk.",
+  "tanggal_pencatatan": "2024-04-01",
+  "saham": 2539601000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MHKI",
+  "nama": "Multi Hanna Kreasindo Tbk.",
+  "tanggal_pencatatan": "2024-04-16",
+  "saham": 3750000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ATLA",
+  "nama": "Atlantis Subsea Indonesia Tbk.",
+  "tanggal_pencatatan": "2024-04-16",
+  "saham": 6199577693,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DATA",
+  "nama": "Remala Abadi Tbk.",
+  "tanggal_pencatatan": "2024-05-07",
+  "saham": 1375000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SOLA",
+  "nama": "Xolare RCR Energy Tbk.",
+  "tanggal_pencatatan": "2024-05-08",
+  "saham": 3287375000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BATR",
+  "nama": "Benteng Api Technic Tbk.",
+  "tanggal_pencatatan": "2024-06-10",
+  "saham": 3025037353,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SPRE",
+  "nama": "Soraya Berjaya Indonesia Tbk.",
+  "tanggal_pencatatan": "2024-07-03",
+  "saham": 800000000,
+  "papan_catat": "AKSELERASI"
+ },
+ {
+  "kode": "PART",
+  "nama": "Cipta Perdana Lancar Tbk.",
+  "tanggal_pencatatan": "2024-07-05",
+  "saham": 2850594054,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GOLF",
+  "nama": "Intra Golflink Resorts Tbk.",
+  "tanggal_pencatatan": "2024-07-08",
+  "saham": 19486760000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "ISEA",
+  "nama": "Indo American Seafoods Tbk.",
+  "tanggal_pencatatan": "2024-07-08",
+  "saham": 1390013370,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BLES",
+  "nama": "Superior Prima Sukses Tbk.",
+  "tanggal_pencatatan": "2024-07-08",
+  "saham": 8890206400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "GUNA",
+  "nama": "Gunanusa Eramandiri Tbk.",
+  "tanggal_pencatatan": "2024-07-09",
+  "saham": 2500000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "LABS",
+  "nama": "UBC Medical Indonesia Tbk.",
+  "tanggal_pencatatan": "2024-07-10",
+  "saham": 3950000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DOSS",
+  "nama": "Global Sukses Digital Tbk.",
+  "tanggal_pencatatan": "2024-08-07",
+  "saham": 1725000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NEST",
+  "nama": "Esta Indonesia Tbk.",
+  "tanggal_pencatatan": "2024-08-08",
+  "saham": 4112500000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PTMR",
+  "nama": "Master Print Tbk.",
+  "tanggal_pencatatan": "2024-10-08",
+  "saham": 1907000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "VERN",
+  "nama": "Verona Indah Pictures Tbk.",
+  "tanggal_pencatatan": "2024-10-08",
+  "saham": 4765648183,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "DAAZ",
+  "nama": "Daaz Bara Lestari Tbk.",
+  "tanggal_pencatatan": "2024-11-11",
+  "saham": 1997000000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "BOAT",
+  "nama": "Newport Marine Services Tbk.",
+  "tanggal_pencatatan": "2024-11-12",
+  "saham": 3501680000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "NAIK",
+  "nama": "Adiwarna Anugerah Abadi Tbk.",
+  "tanggal_pencatatan": "2024-11-13",
+  "saham": 3329422047,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "AADI",
+  "nama": "Adaro Andalan Indonesia Tbk.",
+  "tanggal_pencatatan": "2024-12-05",
+  "saham": 7786891760,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MDIY",
+  "nama": "Daya Intiguna Yasa Tbk.",
+  "tanggal_pencatatan": "2024-12-19",
+  "saham": 25190392000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "KSIX",
+  "nama": "Kentanix Supra International T",
+  "tanggal_pencatatan": "2025-01-08",
+  "saham": 2137831800,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RATU",
+  "nama": "Raharja Energi Cepu Tbk.",
+  "tanggal_pencatatan": "2025-01-08",
+  "saham": 2715053800,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "YOII",
+  "nama": "Asuransi Digital Bersama Tbk.",
+  "tanggal_pencatatan": "2025-01-08",
+  "saham": 3926983181,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "HGII",
+  "nama": "Hero Global Investment Tbk.",
+  "tanggal_pencatatan": "2025-01-09",
+  "saham": 6500000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BRRC",
+  "nama": "Raja Roti Cemerlang Tbk.",
+  "tanggal_pencatatan": "2025-01-09",
+  "saham": 994603036,
+  "papan_catat": "PEMANTAUAN_KHUSUS"
+ },
+ {
+  "kode": "DGWG",
+  "nama": "Delta Giri Wacana Tbk.",
+  "tanggal_pencatatan": "2025-01-13",
+  "saham": 5882353000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "CBDK",
+  "nama": "Bangun Kosambi Sukses Tbk.",
+  "tanggal_pencatatan": "2025-01-13",
+  "saham": 5668944500,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "OBAT",
+  "nama": "Brigit Biofarmaka Teknologi Tb",
+  "tanggal_pencatatan": "2025-01-13",
+  "saham": 680376575,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MINE",
+  "nama": "Sinar Terang Mandiri Tbk.",
+  "tanggal_pencatatan": "2025-03-10",
+  "saham": 4084435300,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "KAQI",
+  "nama": "Jantra Grupo Indonesia Tbk.",
+  "tanggal_pencatatan": "2025-03-10",
+  "saham": 2075800000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "YUPI",
+  "nama": "Yupi Indo Jelly Gum Tbk.",
+  "tanggal_pencatatan": "2025-03-25",
+  "saham": 8544488700,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "FORE",
+  "nama": "Fore Kopi Indonesia Tbk.",
+  "tanggal_pencatatan": "2025-04-14",
+  "saham": 8918359270,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "MDLA",
+  "nama": "Medela Potentia Tbk.",
+  "tanggal_pencatatan": "2025-04-15",
+  "saham": 14012825000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "DKHH",
+  "nama": "Cipta Sarana Medika Tbk.",
+  "tanggal_pencatatan": "2025-05-08",
+  "saham": 2550312624,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "ASPR",
+  "nama": "Asia Pramulia Tbk.",
+  "tanggal_pencatatan": "2025-07-08",
+  "saham": 2712000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PSAT",
+  "nama": "Pancaran Samudera Transport Tb",
+  "tanggal_pencatatan": "2025-07-08",
+  "saham": 1482353000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "COIN",
+  "nama": "Indokripto Koin Semesta Tbk.",
+  "tanggal_pencatatan": "2025-07-09",
+  "saham": 14705882400,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CDIA",
+  "nama": "Chandra Daya Investasi Tbk.",
+  "tanggal_pencatatan": "2025-07-09",
+  "saham": 124829374700,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BLOG",
+  "nama": "Trimitra Trans Persada Tbk.",
+  "tanggal_pencatatan": "2025-07-10",
+  "saham": 3379487200,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "MERI",
+  "nama": "Merry Riana Edukasi Tbk.",
+  "tanggal_pencatatan": "2025-07-10",
+  "saham": 1035132500,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "CHEK",
+  "nama": "Diastika Biotekindo Tbk.",
+  "tanggal_pencatatan": "2025-07-10",
+  "saham": 4113331485,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PMUI",
+  "nama": "Prima Multi Usaha Indonesia Tb",
+  "tanggal_pencatatan": "2025-07-10",
+  "saham": 5800000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "EMAS",
+  "nama": "Merdeka Gold Resources Tbk.",
+  "tanggal_pencatatan": "2025-09-23",
+  "saham": 14731366060,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "PJHB",
+  "nama": "Pelayaran Jaya Hidup Baru Tbk.",
+  "tanggal_pencatatan": "2025-11-06",
+  "saham": 1921346333,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RLCO",
+  "nama": "Abadi Lestari Indonesia Tbk.",
+  "tanggal_pencatatan": "2025-12-08",
+  "saham": 3125000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "SUPA",
+  "nama": "Super Bank Indonesia Tbk.",
+  "tanggal_pencatatan": "2025-12-17",
+  "saham": 33558047450,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "WBSA",
+  "nama": "BSA Logistics Indonesia Tbk.",
+  "tanggal_pencatatan": "2026-04-10",
+  "saham": 8675000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "JECX",
+  "nama": "Nitrasanata Dharma Tbk.",
+  "tanggal_pencatatan": "2026-07-07",
+  "saham": 3253222300,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "JELI",
+  "nama": "Niramas Utama Tbk.",
+  "tanggal_pencatatan": "2026-07-07",
+  "saham": 1266000000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "EMMI",
+  "nama": "Esa Medika Mandiri Tbk.",
+  "tanggal_pencatatan": "2026-07-08",
+  "saham": 1742857000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "BACH",
+  "nama": "Bach Multi Global Tbk.",
+  "tanggal_pencatatan": "2026-07-08",
+  "saham": 4084430000,
+  "papan_catat": "UTAMA"
+ },
+ {
+  "kode": "PRDL",
+  "nama": "Prodia Diagnostic Line Tbk.",
+  "tanggal_pencatatan": "2026-07-09",
+  "saham": 1742900000,
+  "papan_catat": "PENGEMBANGAN"
+ },
+ {
+  "kode": "RANS",
+  "nama": "Rans Entertainmen Indonesia Tb",
+  "tanggal_pencatatan": "2026-07-10",
+  "saham": 12609250000,
+  "papan_catat": "PENGEMBANGAN"
+ }
+]

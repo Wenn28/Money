@@ -1,0 +1,482 @@
+[
+ {
+  "kode": "BBCA",
+  "nilai_rata_20h": 1337584417600
+ },
+ {
+  "kode": "BBRI",
+  "nilai_rata_20h": 793391969450
+ },
+ {
+  "kode": "BMRI",
+  "nilai_rata_20h": 645967317650
+ },
+ {
+  "kode": "TLKM",
+  "nilai_rata_20h": 451667265175
+ },
+ {
+  "kode": "BUMI",
+  "nilai_rata_20h": 339054931755
+ },
+ {
+  "kode": "ASII",
+  "nilai_rata_20h": 271024163475
+ },
+ {
+  "kode": "TPIA",
+  "nilai_rata_20h": 258132764400
+ },
+ {
+  "kode": "ANTM",
+  "nilai_rata_20h": 232901049550
+ },
+ {
+  "kode": "GOTO",
+  "nilai_rata_20h": 189839388110
+ },
+ {
+  "kode": "AMMN",
+  "nilai_rata_20h": 184617909400
+ },
+ {
+  "kode": "BRPT",
+  "nilai_rata_20h": 183521019125
+ },
+ {
+  "kode": "BBNI",
+  "nilai_rata_20h": 174466134200
+ },
+ {
+  "kode": "BRMS",
+  "nilai_rata_20h": 171280948040
+ },
+ {
+  "kode": "TINS",
+  "nilai_rata_20h": 169555693400
+ },
+ {
+  "kode": "BUVA",
+  "nilai_rata_20h": 154286425230
+ },
+ {
+  "kode": "AADI",
+  "nilai_rata_20h": 149396773250
+ },
+ {
+  "kode": "DEWA",
+  "nilai_rata_20h": 141560449060
+ },
+ {
+  "kode": "CUAN",
+  "nilai_rata_20h": 132640796850
+ },
+ {
+  "kode": "BRIS",
+  "nilai_rata_20h": 130665702900
+ },
+ {
+  "kode": "PTRO",
+  "nilai_rata_20h": 120968902800
+ },
+ {
+  "kode": "SINI",
+  "nilai_rata_20h": 120487700875
+ },
+ {
+  "kode": "PTBA",
+  "nilai_rata_20h": 113411319150
+ },
+ {
+  "kode": "MDKA",
+  "nilai_rata_20h": 106646009325
+ },
+ {
+  "kode": "ENRG",
+  "nilai_rata_20h": 101217535450
+ },
+ {
+  "kode": "PACK",
+  "nilai_rata_20h": 93751486100
+ },
+ {
+  "kode": "ISAT",
+  "nilai_rata_20h": 93626513850
+ },
+ {
+  "kode": "VKTR",
+  "nilai_rata_20h": 91293056590
+ },
+ {
+  "kode": "ADRO",
+  "nilai_rata_20h": 82494495450
+ },
+ {
+  "kode": "DSSA",
+  "nilai_rata_20h": 80535753525
+ },
+ {
+  "kode": "PGAS",
+  "nilai_rata_20h": 79618329775
+ },
+ {
+  "kode": "RAJA",
+  "nilai_rata_20h": 75550154290
+ },
+ {
+  "kode": "INET",
+  "nilai_rata_20h": 67560819970
+ },
+ {
+  "kode": "EMAS",
+  "nilai_rata_20h": 66438661850
+ },
+ {
+  "kode": "MEDC",
+  "nilai_rata_20h": 65856467300
+ },
+ {
+  "kode": "BULL",
+  "nilai_rata_20h": 64880361520
+ },
+ {
+  "kode": "AMRT",
+  "nilai_rata_20h": 62986599100
+ },
+ {
+  "kode": "UNTR",
+  "nilai_rata_20h": 58772237750
+ },
+ {
+  "kode": "ICBP",
+  "nilai_rata_20h": 53592505875
+ },
+ {
+  "kode": "WIFI",
+  "nilai_rata_20h": 52602448425
+ },
+ {
+  "kode": "BREN",
+  "nilai_rata_20h": 51998765025
+ },
+ {
+  "kode": "CPIN",
+  "nilai_rata_20h": 50058124800
+ },
+ {
+  "kode": "ITMG",
+  "nilai_rata_20h": 49667730250
+ },
+ {
+  "kode": "MBMA",
+  "nilai_rata_20h": 46239477680
+ },
+ {
+  "kode": "INCO",
+  "nilai_rata_20h": 43772431600
+ },
+ {
+  "kode": "INDF",
+  "nilai_rata_20h": 43310413375
+ },
+ {
+  "kode": "BIPI",
+  "nilai_rata_20h": 42269492395
+ },
+ {
+  "kode": "JPFA",
+  "nilai_rata_20h": 41801614225
+ },
+ {
+  "kode": "KOTA",
+  "nilai_rata_20h": 40889708000
+ },
+ {
+  "kode": "ADMR",
+  "nilai_rata_20h": 40401481425
+ },
+ {
+  "kode": "UNVR",
+  "nilai_rata_20h": 39839867525
+ },
+ {
+  "kode": "ARCI",
+  "nilai_rata_20h": 39062835925
+ },
+ {
+  "kode": "DOOH",
+  "nilai_rata_20h": 37363365660
+ },
+ {
+  "kode": "ERAA",
+  "nilai_rata_20h": 37120639930
+ },
+ {
+  "kode": "INDY",
+  "nilai_rata_20h": 36083925525
+ },
+ {
+  "kode": "EXCL",
+  "nilai_rata_20h": 35865258050
+ },
+ {
+  "kode": "ESSA",
+  "nilai_rata_20h": 35405678000
+ },
+ {
+  "kode": "DMAS",
+  "nilai_rata_20h": 34175056645
+ },
+ {
+  "kode": "SGER",
+  "nilai_rata_20h": 31913616500
+ },
+ {
+  "kode": "INKP",
+  "nilai_rata_20h": 31801898000
+ },
+ {
+  "kode": "AKRA",
+  "nilai_rata_20h": 31627386975
+ },
+ {
+  "kode": "AALI",
+  "nilai_rata_20h": 31221704750
+ },
+ {
+  "kode": "ASLI",
+  "nilai_rata_20h": 31202513605
+ },
+ {
+  "kode": "PSAB",
+  "nilai_rata_20h": 31158566410
+ },
+ {
+  "kode": "KLBF",
+  "nilai_rata_20h": 30351004400
+ },
+ {
+  "kode": "RATU",
+  "nilai_rata_20h": 28714607575
+ },
+ {
+  "kode": "NATO",
+  "nilai_rata_20h": 27549535550
+ },
+ {
+  "kode": "SMIL",
+  "nilai_rata_20h": 27430188810
+ },
+ {
+  "kode": "NCKL",
+  "nilai_rata_20h": 27031725225
+ },
+ {
+  "kode": "TMPO",
+  "nilai_rata_20h": 26080151905
+ },
+ {
+  "kode": "TOBA",
+  "nilai_rata_20h": 25475536030
+ },
+ {
+  "kode": "BBTN",
+  "nilai_rata_20h": 24129346325
+ },
+ {
+  "kode": "COIN",
+  "nilai_rata_20h": 22200603290
+ },
+ {
+  "kode": "UVCR",
+  "nilai_rata_20h": 21898126630
+ },
+ {
+  "kode": "TOWR",
+  "nilai_rata_20h": 21851587740
+ },
+ {
+  "kode": "FORU",
+  "nilai_rata_20h": 21577858620
+ },
+ {
+  "kode": "ULTJ",
+  "nilai_rata_20h": 20529015400
+ },
+ {
+  "kode": "SMGR",
+  "nilai_rata_20h": 20186892525
+ },
+ {
+  "kode": "TEBE",
+  "nilai_rata_20h": 19541713275
+ },
+ {
+  "kode": "BNBR",
+  "nilai_rata_20h": 19353446110
+ },
+ {
+  "kode": "CSMI",
+  "nilai_rata_20h": 19264375975
+ },
+ {
+  "kode": "JSMR",
+  "nilai_rata_20h": 18996602400
+ },
+ {
+  "kode": "TRIN",
+  "nilai_rata_20h": 18020312435
+ },
+ {
+  "kode": "AYAM",
+  "nilai_rata_20h": 17822664450
+ },
+ {
+  "kode": "GGRM",
+  "nilai_rata_20h": 17673014125
+ },
+ {
+  "kode": "MMIX",
+  "nilai_rata_20h": 17151341745
+ },
+ {
+  "kode": "HRTA",
+  "nilai_rata_20h": 16701927575
+ },
+ {
+  "kode": "TAPG",
+  "nilai_rata_20h": 15809110950
+ },
+ {
+  "kode": "ARKO",
+  "nilai_rata_20h": 15703657725
+ },
+ {
+  "kode": "PKPK",
+  "nilai_rata_20h": 15532310125
+ },
+ {
+  "kode": "KETR",
+  "nilai_rata_20h": 15169336565
+ },
+ {
+  "kode": "CDIA",
+  "nilai_rata_20h": 14173545060
+ },
+ {
+  "kode": "MINA",
+  "nilai_rata_20h": 14173368700
+ },
+ {
+  "kode": "KIJA",
+  "nilai_rata_20h": 13917164220
+ },
+ {
+  "kode": "FOLK",
+  "nilai_rata_20h": 13807795275
+ },
+ {
+  "kode": "EMTK",
+  "nilai_rata_20h": 13366593330
+ },
+ {
+  "kode": "PGEO",
+  "nilai_rata_20h": 13317578950
+ },
+ {
+  "kode": "SSIA",
+  "nilai_rata_20h": 13264797150
+ },
+ {
+  "kode": "IMPC",
+  "nilai_rata_20h": 13171374925
+ },
+ {
+  "kode": "LSIP",
+  "nilai_rata_20h": 13088719425
+ },
+ {
+  "kode": "IRSX",
+  "nilai_rata_20h": 13054205625
+ },
+ {
+  "kode": "MIKA",
+  "nilai_rata_20h": 12905195150
+ },
+ {
+  "kode": "PANI",
+  "nilai_rata_20h": 12835339900
+ },
+ {
+  "kode": "ELSA",
+  "nilai_rata_20h": 12766554900
+ },
+ {
+  "kode": "PWON",
+  "nilai_rata_20h": 12710517010
+ },
+ {
+  "kode": "SQMI",
+  "nilai_rata_20h": 11789526240
+ },
+ {
+  "kode": "COCO",
+  "nilai_rata_20h": 11726971615
+ },
+ {
+  "kode": "MAPA",
+  "nilai_rata_20h": 11564875600
+ },
+ {
+  "kode": "AVIA",
+  "nilai_rata_20h": 11394935130
+ },
+ {
+  "kode": "BDMN",
+  "nilai_rata_20h": 11266213475
+ },
+ {
+  "kode": "IATA",
+  "nilai_rata_20h": 11156324600
+ },
+ {
+  "kode": "SEMA",
+  "nilai_rata_20h": 11048238350
+ },
+ {
+  "kode": "CMNT",
+  "nilai_rata_20h": 11044207025
+ },
+ {
+  "kode": "BBYB",
+  "nilai_rata_20h": 10995928095
+ },
+ {
+  "kode": "SRSN",
+  "nilai_rata_20h": 10648170010
+ },
+ {
+  "kode": "WMUU",
+  "nilai_rata_20h": 10592568665
+ },
+ {
+  "kode": "INTP",
+  "nilai_rata_20h": 10357428125
+ },
+ {
+  "kode": "GULA",
+  "nilai_rata_20h": 10181745400
+ },
+ {
+  "kode": "SIDO",
+  "nilai_rata_20h": 9693107540
+ },
+ {
+  "kode": "MYOR",
+  "nilai_rata_20h": 9608834025
+ },
+ {
+  "kode": "BNGA",
+  "nilai_rata_20h": 9446101750
+ }
+]

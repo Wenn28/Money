@@ -1,0 +1,16 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Hanya email terverifikasi dalam daftar ini yang boleh membaca. Penulisan hanya lewat Admin SDK (job data), yang melewati aturan.
+    // Ganti placeholder dengan email timmu sebelum deploy. Selama masih placeholder, tidak ada yang bisa membaca.
+    match /snapshot/{dokumen} {
+      allow read: if request.auth != null
+                  && request.auth.token.email_verified == true
+                  && request.auth.token.email in ['GANTI_EMAIL_1@example.com', 'GANTI_EMAIL_2@example.com'];
+      allow write: if false;
+    }
+    match /{semua=**} {
+      allow read, write: if false;
+    }
+  }
+}

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Saham: Pemantau Volume BEI (Simulasi)</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="firebase-config.js"></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="bar">
+    <h1>Pemantau Volume BEI</h1>
+    <p id="sim" class="sim"></p>
+    <p id="snapshot" class="muted"></p>
+    <p id="akun" class="muted" hidden></p>
+  </header>
+
+  <main>
+    <section class="panel screener" aria-labelledby="h-screener">
+      <h2 id="h-screener">Screener volume</h2>
+      <div class="filters">
+        <label>Cari kode
+          <input id="q" type="search" placeholder="mis. S671" autocomplete="off" maxlength="4">
+        </label>
+        <label>Papan pencatatan
+          <select id="papan">
+            <option value="">Semua</option>
+            <option value="UTAMA">Utama</option>
+            <option value="PENGEMBANGAN">Pengembangan</option>
+            <option value="AKSELERASI">Akselerasi</option>
+            <option value="EKONOMI_BARU">Ekonomi Baru</option>
+            <option value="PEMANTAUAN_KHUSUS">Pemantauan Khusus</option>
+          </select>
+        </label>
+        <label>Risiko
+          <select id="risiko">
+            <option value="">Semua</option>
+            <option value="FCA_X">FCA-X</option>
+            <option value="UMA">UMA</option>
+            <option value="SUSPENSI">Suspensi</option>
+            <option value="HSC">HSC</option>
+            <option value="TANPA">Tanpa lencana</option>
+          </select>
+        </label>
+        <label class="cek"><input id="lonjakan" type="checkbox"> Hanya lonjakan</label>
+      </div>
+      <p id="hitung" class="muted" aria-live="polite"></p>
+      <div id="status" role="status"></div>
+      <div id="scroll" class="scroll" tabindex="0" aria-label="Tabel screener, dapat digulir" hidden>
+        <table>
+          <caption class="sr">Emiten, diurutkan menurut kolom yang dipilih.</caption>
+          <thead>
+            <tr>
+              <th scope="col" data-key="kode" aria-sort="none"><button type="button">Kode</button></th>
+              <th scope="col" data-key="papan_catat" aria-sort="none"><button type="button">Papan</button></th>
+              <th scope="col" data-key="harga" class="num" aria-sort="none"><button type="button">Harga</button></th>
+              <th scope="col" data-key="rvol" class="num" aria-sort="none"><button type="button">RVOL</button></th>
+              <th scope="col" data-key="nilai" class="num" aria-sort="none"><button type="button">Nilai</button></th>
+              <th scope="col" data-key="cvd" class="num" aria-sort="none"><button type="button">CVD</button></th>
+              <th scope="col" data-key="ofi" aria-sort="none"><button type="button">OFI</button></th>
+              <th scope="col" data-key="status_5h" aria-sort="none"><button type="button">Status 5H</button></th>
+              <th scope="col">Risiko</th>
+            </tr>
+          </thead>
+          <tbody id="isi"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <div class="samping">
+      <section class="panel" id="detail" aria-labelledby="h-detail" aria-live="polite">
+        <h2 id="h-detail">Rincian emiten</h2>
+        <p class="muted">Pilih satu emiten dari tabel atau log alert.</p>
+      </section>
+
+      <section class="panel" aria-labelledby="h-alert">
+        <h2 id="h-alert">Log alert</h2>
+        <ol id="alert" class="log"></ol>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <p id="disclaimer" class="muted"></p>
+    <p id="catatan" class="muted">RVOL = Volume Berjalan / (Baseline 20 Hari x Profil Volume).</p>
+  </footer>
+</body>
+</html>
